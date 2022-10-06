@@ -280,8 +280,8 @@ sns.barplot(x='Sex', y = 'Survived', data=titanic_df)
 
 
 
-    
-![png](output_56_1.png)
+<img width="566" alt="스크린샷 2022-10-06 오전 11 29 29" src="https://user-images.githubusercontent.com/87309905/194200794-7c49c18e-122a-4415-821d-625342cb77a3.png">
+
     
 
 
@@ -298,8 +298,8 @@ sns.barplot(x='Pclass', y='Survived', hue='Sex', data=titanic_df)
 
 
 
-    
-![png](output_57_1.png)
+<img width="570" alt="스크린샷 2022-10-06 오전 11 29 47" src="https://user-images.githubusercontent.com/87309905/194200842-04953ee1-9907-4d60-80be-329181040ef3.png">
+
     
 
 
@@ -334,7 +334,8 @@ titanic_df.drop('Age_cat', axis=1, inplace=True)
 
 
     
-![png](output_58_0.png)
+<img width="858" alt="스크린샷 2022-10-06 오전 11 29 59" src="https://user-images.githubusercontent.com/87309905/194200863-a9061058-8c93-4432-a973-89638740da1c.png">
+
     
 
 
@@ -696,7 +697,8 @@ print('테스트 세트에서 DecisionTreeClassifier 정확도 : {0: .4f}'.forma
 #### 오차 행렬(Confusion Matrix)
 => 이진 분류의 예측 오류가 얼마인지와 더불어 어떠한 유형의 예측 오류가 발생하고 있는지를 함께 나타내는 지표
 
-![image.png](attachment:image.png)
+<img width="830" alt="스크린샷 2022-10-06 오전 11 21 27" src="https://user-images.githubusercontent.com/87309905/194200673-64a34766-8bf4-4469-b57c-ba6d607099bd.png">
+
 
 
 ```python
@@ -1173,9 +1175,8 @@ precision_recall_curve_plot( y_test, lr_clf.predict_proba(X_test)[:, 1] )
 
 ```
 
+<img width="688" alt="스크린샷 2022-10-06 오전 11 30 22" src="https://user-images.githubusercontent.com/87309905/194200908-7125ab5c-21a0-4a17-af85-5bebb85babeb.png">
 
-    
-![png](output_102_0.png)
     
 
 
@@ -1321,8 +1322,9 @@ roc_curve_plot(y_test, lr_clf.predict_proba(X_test)[:, 1] )
 ```
 
 
-    
-![png](output_109_0.png)
+ <img width="582" alt="스크린샷 2022-10-06 오전 11 30 47" src="https://user-images.githubusercontent.com/87309905/194200961-837e39f2-6f54-4cca-af07-03443e2d5057.png">
+   
+
     
 
 
