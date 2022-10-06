@@ -11,7 +11,10 @@
 #### SVC(Suport Vector Classifier)
 #### metric : 어떤것을 평가하는 척도
 
-![image.png](attachment:image.png)
+
+<img width="830" alt="스크린샷 2022-10-06 오전 11 21 27" src="https://user-images.githubusercontent.com/87309905/194200314-c10bbffe-5b98-4c88-90cb-1d345120804e.png">
+
+
 
 # CHAPTER2. 사이킷 런으로 시작하는 머신러닝
 
