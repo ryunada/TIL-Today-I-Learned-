@@ -78,10 +78,7 @@ plt.grid()
 plt.show()
 ```
 
-
-    
-![png](output_12_0.png)
-    
+<img width="364" alt="스크린샷 2022-10-11 오후 5 33 21" src="https://user-images.githubusercontent.com/87309905/195040268-30cd46d4-2497-4789-8b0d-c258dec95441.png">
 
 
 
@@ -104,8 +101,8 @@ plt.show()
 ```
 
 
-    
-![png](output_13_0.png)
+
+<img width="394" alt="스크린샷 2022-10-11 오후 5 33 40" src="https://user-images.githubusercontent.com/87309905/195040325-c4f8e4e5-41dc-45b9-98b3-34026709f769.png">
     
 
 
@@ -132,9 +129,9 @@ plt.show()
 ```
 
 
+<img width="403" alt="스크린샷 2022-10-11 오후 5 33 56" src="https://user-images.githubusercontent.com/87309905/195040392-c778cc0e-af17-42cf-acae-90cbd550295a.png">
     
-![png](output_14_0.png)
-    
+
 
 
 
@@ -160,9 +157,9 @@ plt.show()
 ```
 
 
-    
-![png](output_15_0.png)
-    
+
+<img width="387" alt="스크린샷 2022-10-11 오후 5 34 11" src="https://user-images.githubusercontent.com/87309905/195040440-9c279ed8-76fd-4298-9561-b574d0304c02.png">
+   
 
 
 ***
@@ -296,8 +293,7 @@ plt.plot(X, y_hat)
 
 
 
-    
-![png](output_30_1.png)
+<img width="375" alt="스크린샷 2022-10-11 오후 5 34 30" src="https://user-images.githubusercontent.com/87309905/195040508-e46800de-e17e-459e-8487-e0aa98ca8097.png">
     
 
 
@@ -356,9 +352,8 @@ plt.plot(X, y_hat)
 
 
 
+<img width="396" alt="스크린샷 2022-10-11 오후 5 34 45" src="https://user-images.githubusercontent.com/87309905/195040561-308b372b-002b-41a0-a71a-37a261abe8b4.png">
 
-    
-![png](output_31_2.png)
     
 
 
@@ -385,9 +380,8 @@ plt.xlabel('study time')
 plt.grid()
 ```
 
+<img width="391" alt="스크린샷 2022-10-11 오후 5 34 56" src="https://user-images.githubusercontent.com/87309905/195040601-bf320c06-5aa5-458e-819f-814cd1eb06f3.png">
 
-    
-![png](output_33_0.png)
     
 
 
@@ -420,8 +414,8 @@ plt.grid()
 ```
 
 
-    
-![png](output_35_0.png)
+<img width="408" alt="스크린샷 2022-10-11 오후 5 35 10" src="https://user-images.githubusercontent.com/87309905/195040651-23292801-62c9-45dc-9b89-35f1fccd8543.png">
+
     
 
 
@@ -456,7 +450,7 @@ for i in range(4):
 
 
     
-![png](output_37_0.png)
+<img width="405" alt="스크린샷 2022-10-11 오후 5 35 21" src="https://user-images.githubusercontent.com/87309905/195040689-eaeb5b06-0395-414e-a1b5-bc06634b9b1f.png">
     
 
 
@@ -512,9 +506,8 @@ for i in range(4):
   plt.plot( [X[i], X[i]],[ y[i], a2*X[i]+b], 'r' )
 ```
 
+<img width="832" alt="스크린샷 2022-10-11 오후 5 35 38" src="https://user-images.githubusercontent.com/87309905/195040745-9c78f574-c6ab-4117-aeaa-92eafce35602.png">
 
-    
-![png](output_39_0.png)
     
 
 
@@ -791,7 +784,7 @@ plt.grid()
 
 
     
-![png](output_63_0.png)
+<img width="420" alt="스크린샷 2022-10-11 오후 5 36 31" src="https://user-images.githubusercontent.com/87309905/195040955-77d2e69c-483c-4b6e-931c-12c09bf50f21.png">
     
 
 
