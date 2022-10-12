@@ -1882,3 +1882,14 @@ model.compile(optimizer='sgd' ,loss='binary_crossentropy')
 model.fit(x, y,epochs = 5000)
 
 
+model.fit()이 종료된 후 model.predict() 함수를 이용해서 학습 시간 $x$가 입력되었을 때 결과를 그래프로 그려 봅니다. model.fit() 함수가 완료되기까지 약 5분의 시간이 걸립니다. (2022년 10월, 4분 25초 거렸음, 하드웨어 가속기 GPU 사용 했을 때 3분대...ㅠ.ㅠ )
+
+```python
+plt.scatter(x,y)
+plt.plot(x, model.predict(x),'r')
+plt.show()
+```
+<img width="374" alt="스크린샷 2022-10-12 오전 10 16 51" src="https://user-images.githubusercontent.com/87309905/195226761-03664436-917f-43fc-b115-fad0a10ab719.png">
+
+
+
