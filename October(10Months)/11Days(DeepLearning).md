@@ -959,10 +959,7 @@ plt.scatter(x, y)
 plt.show()
 ```
 
-
-    
-![png](output_81_0.png)
-    
+<img width="370" alt="스크린샷 2022-10-12 오전 10 08 41" src="https://user-images.githubusercontent.com/87309905/195225913-b13e176c-ccd3-4f8e-8d2c-3999bf0e72c6.png">
 
 
 ### 4. 실행을 위한 변수 설정
@@ -1041,10 +1038,7 @@ plt.plot(x, y_pred,'r')
 plt.show()
 ```
 
-
-    
-![png](output_88_0.png)
-    
+<img width="379" alt="스크린샷 2022-10-12 오전 10 09 50" src="https://user-images.githubusercontent.com/87309905/195226033-4838f8ed-422d-4839-8195-351967b47a40.png">
 
 
 ***
@@ -1156,10 +1150,8 @@ ax.set_zlabel('$y$')
 plt.show()
 ```
 
+<img width="576" alt="스크린샷 2022-10-12 오전 10 10 08" src="https://user-images.githubusercontent.com/87309905/195226067-3d9d5cce-49cb-4b10-a0f2-3e04e459800e.png">
 
-    
-![png](output_95_0.png)
-    
 
 
 코드의 형태는 크게 다르지 않습니다. 다만 고려할 사항이 2개로 늘어서 $x_1$, $x_2$ 두 개로 늘었고 따라서 기울기도 $a_1$과 $a_2$로 늘었습니다. 앞서 수행했던 방법대로 경사하강법을 적용해 보겠습니다.
@@ -1275,10 +1267,9 @@ ax.scatter3D(x1, x2, y)
 plt.show()
 ```
 
+<img width="348" alt="스크린샷 2022-10-12 오전 10 10 23" src="https://user-images.githubusercontent.com/87309905/195226086-f0c6d1c5-9a5f-4c97-8faa-1741f82ca0a6.png">
 
-    
-![png](output_111_0.png)
-    
+   
 
 
 ## 4. 실행을 위한 변수 설정
@@ -1366,9 +1357,9 @@ plt.grid()
 
 ```
 
+<img width="382" alt="스크린샷 2022-10-12 오전 10 10 39" src="https://user-images.githubusercontent.com/87309905/195226107-65681215-ca2d-43e5-b028-f3b80a8da738.png">
 
-    
-![png](output_117_0.png)
+ 
     
 
 
@@ -1453,8 +1444,7 @@ plt.show()
 ```
 
 
-    
-![png](output_125_0.png)
+<img width="380" alt="스크린샷 2022-10-12 오전 10 10 55" src="https://user-images.githubusercontent.com/87309905/195226136-49fb5a6c-239f-4dda-97bd-433cde57f9f6.png">
     
 
 
@@ -1521,10 +1511,9 @@ plt.plot(x, model.predict(x), 'sr-')
 plt.show()
 ```
 
+<img width="379" alt="스크린샷 2022-10-12 오전 10 11 09" src="https://user-images.githubusercontent.com/87309905/195226162-a2610162-2f36-48c9-ab38-7bbe4c6417cf.png">
 
-    
-![png](output_133_0.png)
-    
+   
 
 
 ## 5. 모델 테스트
@@ -1658,9 +1647,8 @@ plt.show()
 ```
 
 
-    
-![png](output_148_0.png)
-    
+<img width="375" alt="스크린샷 2022-10-12 오전 10 11 30" src="https://user-images.githubusercontent.com/87309905/195226194-35f97fa3-1b32-4dad-b2db-e3f8a0ee8c4e.png">
+   
 
 
 점수가 아니라 오직 합격과 불합격만 발표되는 시험이 있다고 합시다. 공부한 시간에 따른 합격 여부를 조사해 보니 아래 표와 같았습니다. 
@@ -1681,9 +1669,9 @@ plt.show()
 ```
 
 
-    
-![png](output_150_0.png)
-    
+
+<img width="371" alt="스크린샷 2022-10-12 오전 10 11 43" src="https://user-images.githubusercontent.com/87309905/195226221-32e982d6-9de9-4fa2-a368-1d6a75fdac98.png">
+   
 
 
 
@@ -1700,9 +1688,7 @@ plt.show()
 ```
 
 
-    
-![png](output_151_0.png)
-    
+<img width="373" alt="스크린샷 2022-10-12 오전 10 11 56" src="https://user-images.githubusercontent.com/87309905/195226243-3ed2dd35-b500-45f3-9f44-8ff1a310d944.png">
 
 
 점들의 특성을 정확하게 담아내려면 직선이 아니라 다음과 같은 S자 형태가 되어야 합니다.  
@@ -1729,10 +1715,9 @@ plt.legend()
 plt.show()
 ```
 
+<img width="372" alt="스크린샷 2022-10-12 오전 10 12 08" src="https://user-images.githubusercontent.com/87309905/195226261-b486db91-79eb-4ffc-9a85-6bb06a21b6b1.png">
 
-    
-![png](output_153_0.png)
-    
+ 
 
 
 **위 그래프 해석**  
@@ -1756,9 +1741,9 @@ plt.show()
 ```
 
 
+<img width="371" alt="스크린샷 2022-10-12 오전 10 12 18" src="https://user-images.githubusercontent.com/87309905/195226278-8e5f59a3-ddb9-4fa8-9579-4e674d8eb191.png">
     
-![png](output_155_0.png)
-    
+
 
 
 
