@@ -1891,5 +1891,60 @@ plt.show()
 ```
 <img width="374" alt="스크린샷 2022-10-12 오전 10 16 51" src="https://user-images.githubusercontent.com/87309905/195226761-03664436-917f-43fc-b115-fad0a10ab719.png">
 
+임의의 학습 시간에 따른 합격 확율을 보여주눈 코드는 다음과 같습니다.
+
+```python
+hour = 7
+prediction = model.predict([hour])
+print('%.f시간을 공부할 경우, 합격 예상 확율은 %.1f입니다' % (hour, prediction * 100))
+````
+
+### 1.환경 준비
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
+```
 
 
+### 2. 데이터 준비
+
+```python
+x = np.array([2, 4, 6, 8, 10, 12, 14])
+y = np.array([0, 0, 0, 1, 1, 1, 1]) 
+```
+
+### 3. 모델 실행
+
+```python
+model = Sequential()
+model.add(Dense(1, input_dim=1, activation='sigmoid'))
+
+# 교차 엔트로피 오차 함수를 이용하기 위하여 'binary_crossentropy'로 설정합니다. 
+model.compile(optimizer='sgd' ,loss='binary_crossentropy')
+model.fit(x, y, epochs=5000)
+```
+
+### 4. 모델 테스트
+
+```python
+# 그래프로 확인해 봅니다.
+plt.scatter(x, y)
+plt.plot(x, model.predict(x), 'r')
+plt.show()
+```
+<img width="373" alt="스크린샷 2022-10-12 오전 10 56 12" src="https://user-images.githubusercontent.com/87309905/195231018-3e2edc09-f9d8-49fa-9fed-98b51e609fa4.png">
+
+# 임의의 학습 시간을 집어넣어 합격 예상 확률을 예측해 보겠습니다.
+
+```python
+hour = 7
+prediction = model.predict([hour])
+``
+print("%.f시간을 공부할 경우, 합격 예상 확률은 %.01f%%입니다" % (hour, prediction * 100))
+
+출력되는 그래프는 학습이 진행됨에 따라 점점 시그모이드 함수 그래프의 형태를 취해 가는 것을 보여 줍니다. 학습된 모델의 테스트를 위해 여러 가지 임의의 시간을 집어넣고 테스해 보면, 학습 시간이 7보다 클 경에는 합격 확율이 50%가 넘는다는 것을 알 수 있습니다. 데이터 양이나 학습 시간 등 환경에 따라 예측 정확도는 더욱 향상 될 수 있습니다.
+
+지금까지 선형 회귀와 로지스틱 회귀를 사용한 모델링에 관해 알아봤습니다. 이 두 가지가 딥러닝의 기본 요소가 되는 것을 이미 설명한 바 있습니다. 그러면 이러한 통계 모델링은 어떻게 해서 딥러닝과 연관을 갖게 될까요? 로지스틱 회귀 모델의 전신인 퍼셉트론과 퍼셉트로의  한계를 극복하며 탄생한 신경망에 대해 상세히 알아보며 딥러닝 학습 속도를 더해보겠습니다.
