@@ -847,9 +847,9 @@ plt.show()
 ```
 
 
+<img width="393" alt="스크린샷 2022-10-13 오후 5 52 04" src="https://user-images.githubusercontent.com/87309905/195550238-3a1e197d-09b0-4813-bf8b-f9d4dbf8e35d.png">
     
-![png](output_24_0.png)
-    
+
 
 
 
@@ -1358,10 +1358,8 @@ plt.show()
 ```
 
 
+<img width="383" alt="스크린샷 2022-10-13 오후 5 52 29" src="https://user-images.githubusercontent.com/87309905/195550350-e10b3fb1-f30e-4b4b-80b0-eab674336904.png">
     
-![png](output_41_0.png)
-    
-
 
 
 ```python
@@ -2396,9 +2394,9 @@ plt.show()
 ```
 
 
-    
-![png](output_61_0.png)
-    
+
+<img width="1001" alt="스크린샷 2022-10-13 오후 5 53 17" src="https://user-images.githubusercontent.com/87309905/195550560-dc426a13-4ef4-48c0-a431-c40f7f160be6.png">
+<img width="1018" alt="스크린샷 2022-10-13 오후 5 53 04" src="https://user-images.githubusercontent.com/87309905/195550495-3ea6e4af-6b4f-4b41-8ccd-a37df1f2dfa9.png">
 
 
 위 그래프에서 맨 왼쪽 열의 그림을 보십시요. 선택된 속성들이 집 값(SalePrice)와 양의 관계가 있음을 확인할 수 있습니다. 
@@ -2544,10 +2542,8 @@ plt.show()
 ```
 
 
+<img width="409" alt="스크린샷 2022-10-13 오후 5 53 36" src="https://user-images.githubusercontent.com/87309905/195550634-bb284f11-2465-4b11-8e89-5c70bf6d4a92.png">
     
-![png](output_69_0.png)
-    
-
 
 
 과제 2 - 이 예제에서는 집가격과 상관 관계가 높은 5개 속성을 입력으로 고려했습니다. 집 가격과 상관간계가 폰은 7개를 속성을 입력으로 예측된 집 가격과 실제 집 가격을 비교 하시요.
