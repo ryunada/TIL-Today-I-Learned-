@@ -838,9 +838,9 @@ for i in range(0, len(data)):
 plt.show()
 ```
 
+<img width="713" alt="스크린샷 2022-10-18 오후 5 41 14" src="https://user-images.githubusercontent.com/87309905/196381352-61a60f67-f8c3-40bb-a216-4608f118a73a.png">
 
     
-![png](output_40_0.png)
     
 
 
