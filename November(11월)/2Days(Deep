@@ -1,0 +1,2066 @@
+## Heart Disease Health Indicators Dataset
+
+
+```python
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
+%matplotlib inline
+```
+
+
+```python
+import warnings
+warnings.filterwarnings('ignore')
+```
+
+
+```python
+import os
+print(os.getcwd())
+os.chdir('/Users/ryu/Desktop/데스크탑 - ryuseungho의 MacBook Air/2022/Bigdata/DeepLearning/Park_Professor_10.31/data')
+print(os.getcwd())
+```
+
+    /Users/ryu/Desktop/데스크탑 - ryuseungho의 MacBook Air/2022/Bigdata/DeepLearning/Park_Professor_10.31
+    /Users/ryu/Desktop/데스크탑 - ryuseungho의 MacBook Air/2022/Bigdata/DeepLearning/Park_Professor_10.31/data
+
+
+
+```python
+# 파일 불러오기
+df = pd.read_csv('./heart_disease_health_indicators_BRFSS2015.csv')
+df.info()
+```
+
+    <class 'pandas.core.frame.DataFrame'>
+    RangeIndex: 253680 entries, 0 to 253679
+    Data columns (total 22 columns):
+     #   Column                Non-Null Count   Dtype  
+    ---  ------                --------------   -----  
+     0   HeartDiseaseorAttack  253680 non-null  float64
+     1   HighBP                253680 non-null  float64
+     2   HighChol              253680 non-null  float64
+     3   CholCheck             253680 non-null  float64
+     4   BMI                   253680 non-null  float64
+     5   Smoker                253680 non-null  float64
+     6   Stroke                253680 non-null  float64
+     7   Diabetes              253680 non-null  float64
+     8   PhysActivity          253680 non-null  float64
+     9   Fruits                253680 non-null  float64
+     10  Veggies               253680 non-null  float64
+     11  HvyAlcoholConsump     253680 non-null  float64
+     12  AnyHealthcare         253680 non-null  float64
+     13  NoDocbcCost           253680 non-null  float64
+     14  GenHlth               253680 non-null  float64
+     15  MentHlth              253680 non-null  float64
+     16  PhysHlth              253680 non-null  float64
+     17  DiffWalk              253680 non-null  float64
+     18  Sex                   253680 non-null  float64
+     19  Age                   253680 non-null  float64
+     20  Education             253680 non-null  float64
+     21  Income                253680 non-null  float64
+    dtypes: float64(22)
+    memory usage: 42.6 MB
+
+
+
+```python
+df.head(30)
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>HeartDiseaseorAttack</th>
+      <th>HighBP</th>
+      <th>HighChol</th>
+      <th>CholCheck</th>
+      <th>BMI</th>
+      <th>Smoker</th>
+      <th>Stroke</th>
+      <th>Diabetes</th>
+      <th>PhysActivity</th>
+      <th>Fruits</th>
+      <th>...</th>
+      <th>AnyHealthcare</th>
+      <th>NoDocbcCost</th>
+      <th>GenHlth</th>
+      <th>MentHlth</th>
+      <th>PhysHlth</th>
+      <th>DiffWalk</th>
+      <th>Sex</th>
+      <th>Age</th>
+      <th>Education</th>
+      <th>Income</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>40.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>5.0</td>
+      <td>18.0</td>
+      <td>15.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>9.0</td>
+      <td>4.0</td>
+      <td>3.0</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>25.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>3.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>7.0</td>
+      <td>6.0</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>28.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>5.0</td>
+      <td>30.0</td>
+      <td>30.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>9.0</td>
+      <td>4.0</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>27.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>11.0</td>
+      <td>3.0</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>24.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>3.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>11.0</td>
+      <td>5.0</td>
+      <td>4.0</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>25.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>6.0</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>30.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>3.0</td>
+      <td>0.0</td>
+      <td>14.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>9.0</td>
+      <td>6.0</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>25.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>3.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>11.0</td>
+      <td>4.0</td>
+      <td>4.0</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>30.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>5.0</td>
+      <td>30.0</td>
+      <td>30.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>9.0</td>
+      <td>5.0</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>24.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>8.0</td>
+      <td>4.0</td>
+      <td>3.0</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>25.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>3.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>13.0</td>
+      <td>6.0</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>34.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>3.0</td>
+      <td>0.0</td>
+      <td>30.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>10.0</td>
+      <td>5.0</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>26.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>3.0</td>
+      <td>0.0</td>
+      <td>15.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>7.0</td>
+      <td>5.0</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>28.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>4.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>11.0</td>
+      <td>4.0</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>33.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>4.0</td>
+      <td>30.0</td>
+      <td>28.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>4.0</td>
+      <td>6.0</td>
+      <td>2.0</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>33.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>5.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>6.0</td>
+      <td>6.0</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>21.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>3.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>10.0</td>
+      <td>4.0</td>
+      <td>3.0</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>23.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>7.0</td>
+      <td>5.0</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>23.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>15.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>6.0</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>28.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>10.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>4.0</td>
+      <td>6.0</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>22.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>3.0</td>
+      <td>30.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>12.0</td>
+      <td>4.0</td>
+      <td>4.0</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>38.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>5.0</td>
+      <td>15.0</td>
+      <td>30.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>13.0</td>
+      <td>2.0</td>
+      <td>3.0</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>28.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>3.0</td>
+      <td>0.0</td>
+      <td>7.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>5.0</td>
+      <td>5.0</td>
+      <td>5.0</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>27.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>13.0</td>
+      <td>5.0</td>
+      <td>4.0</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>28.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>3.0</td>
+      <td>6.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>9.0</td>
+      <td>4.0</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>32.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>5.0</td>
+      <td>6.0</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>37.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>5.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>6.0</td>
+      <td>5.0</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>28.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>4.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>12.0</td>
+      <td>2.0</td>
+      <td>4.0</td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>27.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>4.0</td>
+      <td>20.0</td>
+      <td>20.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>8.0</td>
+      <td>4.0</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>31.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>12.0</td>
+      <td>6.0</td>
+      <td>8.0</td>
+    </tr>
+  </tbody>
+</table>
+<p>30 rows × 22 columns</p>
+</div>
+
+
+
+
+```python
+df.isnull().sum()
+```
+
+
+
+
+    HeartDiseaseorAttack    0
+    HighBP                  0
+    HighChol                0
+    CholCheck               0
+    BMI                     0
+    Smoker                  0
+    Stroke                  0
+    Diabetes                0
+    PhysActivity            0
+    Fruits                  0
+    Veggies                 0
+    HvyAlcoholConsump       0
+    AnyHealthcare           0
+    NoDocbcCost             0
+    GenHlth                 0
+    MentHlth                0
+    PhysHlth                0
+    DiffWalk                0
+    Sex                     0
+    Age                     0
+    Education               0
+    Income                  0
+    dtype: int64
+
+
+
+
+```python
+df.groupby(by = ['HeartDiseaseorAttack']).count()
+# 0이 229787
+# 1이 23893
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>HighBP</th>
+      <th>HighChol</th>
+      <th>CholCheck</th>
+      <th>BMI</th>
+      <th>Smoker</th>
+      <th>Stroke</th>
+      <th>Diabetes</th>
+      <th>PhysActivity</th>
+      <th>Fruits</th>
+      <th>Veggies</th>
+      <th>...</th>
+      <th>AnyHealthcare</th>
+      <th>NoDocbcCost</th>
+      <th>GenHlth</th>
+      <th>MentHlth</th>
+      <th>PhysHlth</th>
+      <th>DiffWalk</th>
+      <th>Sex</th>
+      <th>Age</th>
+      <th>Education</th>
+      <th>Income</th>
+    </tr>
+    <tr>
+      <th>HeartDiseaseorAttack</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0.0</th>
+      <td>229787</td>
+      <td>229787</td>
+      <td>229787</td>
+      <td>229787</td>
+      <td>229787</td>
+      <td>229787</td>
+      <td>229787</td>
+      <td>229787</td>
+      <td>229787</td>
+      <td>229787</td>
+      <td>...</td>
+      <td>229787</td>
+      <td>229787</td>
+      <td>229787</td>
+      <td>229787</td>
+      <td>229787</td>
+      <td>229787</td>
+      <td>229787</td>
+      <td>229787</td>
+      <td>229787</td>
+      <td>229787</td>
+    </tr>
+    <tr>
+      <th>1.0</th>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>...</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+    </tr>
+  </tbody>
+</table>
+<p>2 rows × 21 columns</p>
+</div>
+
+
+
+
+```python
+print(f'Target class is {df.HeartDiseaseorAttack.mean()*100:0.4f}')
+```
+
+    Target class is 9.4186
+
+
+
+```python
+# X와 y 데이터 셋 만들기
+from sklearn.model_selection import train_test_split
+from sklearn.model_selection import StratifiedShuffleSplit 
+from sklearn.model_selection import KFold, StratifiedKFold
+
+X = df.drop('HeartDiseaseorAttack', axis=1) 
+y = df['HeartDiseaseorAttack']
+
+# 데이터 나누기
+sss = StratifiedKFold(n_splits=5, random_state=None, shuffle=False)
+for train_index, test_index in sss.split(X, y):
+    original_Xtrain, original_Xtest = X.iloc[train_index], X.iloc[test_index] 
+    original_ytrain, original_ytest = y.iloc[train_index], y.iloc[test_index]
+```
+
+# Undersampling
+
+
+```python
+# 클래스의 skew 정도가 매우 높기 때문에 클래스간 분포를 맞추는 것이 필요합니다.
+# subsample 구축 전 셔플링을 통해 레이블이 한쪽에 몰려있지 않도록 하겠습니다.
+
+df =  df.sample(frac = 1) # 1 -> 100% 랜덤
+
+# 데이터 준비
+# HeartDiseaseorAttack가
+fraud_df = df.loc[df['HeartDiseaseorAttack'] == 1]
+non_fraud_df = df.loc[df['HeartDiseaseorAttack'] == 0][:23893]
+
+normal_distributed_df = pd.concat([fraud_df, non_fraud_df])
+
+# 데이터 셔플하기
+new_df = normal_distributed_df.sample(frac=1, random_state=0)
+
+# 셔플한 새로운 데이터 셋 확인
+new_df.head()
+
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>HeartDiseaseorAttack</th>
+      <th>HighBP</th>
+      <th>HighChol</th>
+      <th>CholCheck</th>
+      <th>BMI</th>
+      <th>Smoker</th>
+      <th>Stroke</th>
+      <th>Diabetes</th>
+      <th>PhysActivity</th>
+      <th>Fruits</th>
+      <th>...</th>
+      <th>AnyHealthcare</th>
+      <th>NoDocbcCost</th>
+      <th>GenHlth</th>
+      <th>MentHlth</th>
+      <th>PhysHlth</th>
+      <th>DiffWalk</th>
+      <th>Sex</th>
+      <th>Age</th>
+      <th>Education</th>
+      <th>Income</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>58635</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>30.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>3.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>6.0</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <th>146056</th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>38.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>4.0</td>
+      <td>5.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>6.0</td>
+      <td>6.0</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <th>232530</th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>30.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>3.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>8.0</td>
+      <td>5.0</td>
+      <td>4.0</td>
+    </tr>
+    <tr>
+      <th>190073</th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>30.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>7.0</td>
+      <td>5.0</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <th>29674</th>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>39.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>4.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>3.0</td>
+      <td>5.0</td>
+      <td>6.0</td>
+    </tr>
+  </tbody>
+</table>
+<p>5 rows × 22 columns</p>
+</div>
+
+
+
+
+```python
+from sklearn.manifold import TSNE
+from sklearn.decomposition import PCA, TruncatedSVD
+
+# 차원 축소할 데이터 준비
+X = new_df.drop('HeartDiseaseorAttack', axis=1)
+y = new_df['HeartDiseaseorAttack']
+
+# t-SNE  
+
+X_reduced_tsne = TSNE(n_components=2, random_state=0).fit_transform(X.values)
+print('t-SNE done')
+
+# PCA 
+X_reduced_pca = PCA(n_components = 2, random_state = 0).fit_transform(X.values)
+print('PCA done')
+
+# TruncatedSVD
+X_reduced_svd = TruncatedSVD(n_components =2 , algorithm = 'randomized', random_state = 0).fit_transform(X.values)
+print('Truncated SVD done')
+```
+
+    t-SNE done
+    PCA done
+    Truncated SVD done
+
+
+
+```python
+f, (ax1, ax2, ax3) = plt.subplots(1, 3, figsize=(24, 6))
+f.suptitle('Clusters after Dimensionality Reduction', fontsize=16)
+
+# Label 범례 설정
+labels = ['Health','Heart_Disease']
+blue_patch = mpatches.Patch(color = 'red', label = 'Health')
+red_patch = mpatches.Patch(color = 'blue', label = 'Fraud' )
+
+# t-SNE scatter plot
+ax1.scatter(X_reduced_tsne[:,0], X_reduced_tsne[:,1], c = (y == 0), cmap='coolwarm', label='Health', linewidths=2) ###
+ax1.scatter(X_reduced_tsne[:,0], X_reduced_tsne[:,1], c = (y == 1), cmap='coolwarm', label='Heart_Disease', linewidths=2) ###
+ax1.set_title('t-SNE', fontsize=14)
+ax1.grid(True)
+ax1.legend(handles = [blue_patch, red_patch]) ###
+
+# PCA scatter plot
+ax2.scatter(X_reduced_pca[:,0], X_reduced_pca[:,1], c = (y == 0), cmap='coolwarm', label='Health', linewidths=2) ###
+ax2.scatter(X_reduced_pca[:,0], X_reduced_pca[:,1], c = (y == 1), cmap='coolwarm', label='Heart_Disease', linewidths=2) ###
+ax2.set_title('PCA', fontsize=14)
+ax2.grid(True)
+ax2.legend(handles = [blue_patch, red_patch]) ###
+
+# TruncatedSVD scatter plot
+ax3.scatter(X_reduced_svd[:,0], X_reduced_svd[:,1],  c=(y == 0), cmap='coolwarm', label='Health', linewidths=2) ###
+ax3.scatter(X_reduced_svd[:,0], X_reduced_svd[:,1],  c=(y == 1), cmap='coolwarm', label='Heart_Disease', linewidths=2) ###
+ax3.set_title('Truncated SVD', fontsize=14)
+ax3.grid(True)
+ax3.legend(handles = [blue_patch, red_patch]) ###
+
+plt.show()
+```
+
+
+    
+![png](output_13_0.png)
+    
+
+
+## Random으로 UnderSampling 재구축
+
+
+```python
+new_df.groupby(by = ['HeartDiseaseorAttack']).count()
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>HighBP</th>
+      <th>HighChol</th>
+      <th>CholCheck</th>
+      <th>BMI</th>
+      <th>Smoker</th>
+      <th>Stroke</th>
+      <th>Diabetes</th>
+      <th>PhysActivity</th>
+      <th>Fruits</th>
+      <th>Veggies</th>
+      <th>...</th>
+      <th>AnyHealthcare</th>
+      <th>NoDocbcCost</th>
+      <th>GenHlth</th>
+      <th>MentHlth</th>
+      <th>PhysHlth</th>
+      <th>DiffWalk</th>
+      <th>Sex</th>
+      <th>Age</th>
+      <th>Education</th>
+      <th>Income</th>
+    </tr>
+    <tr>
+      <th>HeartDiseaseorAttack</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0.0</th>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>...</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+    </tr>
+    <tr>
+      <th>1.0</th>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>...</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+      <td>23893</td>
+    </tr>
+  </tbody>
+</table>
+<p>2 rows × 21 columns</p>
+</div>
+
+
+
+
+```python
+X = new_df.drop('HeartDiseaseorAttack', axis=1)
+y = new_df['HeartDiseaseorAttack']
+```
+
+
+```python
+# 언더샘플링을 위한 샘플 데이터 구축
+from sklearn.model_selection import train_test_split
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=1)
+```
+
+
+```python
+# 모델 인풋에 들어가기 위한 데이터의 형태 바꾸기
+X_train = X_train.values
+X_test = X_test.values
+y_train = y_train.values
+y_test = y_test.values
+```
+
+
+```python
+# 학습시킬 모델 로드하기
+from sklearn.linear_model import LogisticRegression
+from sklearn.svm import SVC
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import GradientBoostingClassifier
+from lightgbm import LGBMClassifier
+
+classifiers = {
+    "Logisitic Regression": LogisticRegression(),
+    "K Nearest": KNeighborsClassifier(),
+#     "Support Vector Classifier": SVC(),
+    "Decision Tree Classifier": DecisionTreeClassifier(),
+    "Random Forest Classifier": RandomForestClassifier(),
+    "Gradient Boosting Classifier": GradientBoostingClassifier(),
+    "LightGBM Classifier": LGBMClassifier()
+}
+```
+
+
+```python
+# 모델별 cross validation 한 결과의 평균 정확도 점수 출력하기
+from sklearn.model_selection import cross_val_score
+
+for key, classifier in classifiers.items():
+    classifier.fit(X_train, y_train)
+    training_score = cross_val_score(classifier, X_train, y_train, cv=5)
+    print(classifier.__class__.__name__, ':', round(training_score.mean(), 2) * 100, '% accuracy')
+```
+
+    LogisticRegression : 76.0 % accuracy
+    KNeighborsClassifier : 71.0 % accuracy
+    DecisionTreeClassifier : 67.0 % accuracy
+    RandomForestClassifier : 75.0 % accuracy
+    GradientBoostingClassifier : 77.0 % accuracy
+    LGBMClassifier : 77.0 % accuracy
+
+
+
+```python
+original_Xtest
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>HighBP</th>
+      <th>HighChol</th>
+      <th>CholCheck</th>
+      <th>BMI</th>
+      <th>Smoker</th>
+      <th>Stroke</th>
+      <th>Diabetes</th>
+      <th>PhysActivity</th>
+      <th>Fruits</th>
+      <th>Veggies</th>
+      <th>...</th>
+      <th>AnyHealthcare</th>
+      <th>NoDocbcCost</th>
+      <th>GenHlth</th>
+      <th>MentHlth</th>
+      <th>PhysHlth</th>
+      <th>DiffWalk</th>
+      <th>Sex</th>
+      <th>Age</th>
+      <th>Education</th>
+      <th>Income</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>201988</th>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>31.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>4.0</td>
+      <td>0.0</td>
+      <td>12.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>7.0</td>
+      <td>6.0</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <th>201999</th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>28.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>9.0</td>
+      <td>4.0</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <th>202010</th>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>35.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>4.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>12.0</td>
+      <td>5.0</td>
+      <td>4.0</td>
+    </tr>
+    <tr>
+      <th>202031</th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>31.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>4.0</td>
+      <td>0.0</td>
+      <td>30.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>6.0</td>
+      <td>3.0</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <th>202038</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>23.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>10.0</td>
+      <td>5.0</td>
+      <td>4.0</td>
+    </tr>
+    <tr>
+      <th>...</th>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th>253675</th>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>45.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>3.0</td>
+      <td>0.0</td>
+      <td>5.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>5.0</td>
+      <td>6.0</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <th>253676</th>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>18.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>4.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>11.0</td>
+      <td>2.0</td>
+      <td>4.0</td>
+    </tr>
+    <tr>
+      <th>253677</th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>28.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>5.0</td>
+      <td>2.0</td>
+    </tr>
+    <tr>
+      <th>253678</th>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>23.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>3.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>7.0</td>
+      <td>5.0</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
+      <th>253679</th>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>25.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>9.0</td>
+      <td>6.0</td>
+      <td>2.0</td>
+    </tr>
+  </tbody>
+</table>
+<p>50736 rows × 21 columns</p>
+</div>
+
+
+
+
+```python
+# 모델별 분류결과 확인하기 (올바른 예)
+from sklearn.metrics import classification_report
+
+for key, classifier in classifiers.items():
+    y_pred = classifier.predict(original_Xtest)  ####
+    results = classification_report(original_ytest, y_pred)  ####
+    print(classifier.__class__.__name__, '-------','\n', results)
+```
+
+    LogisticRegression ------- 
+                   precision    recall  f1-score   support
+    
+             0.0       0.97      0.73      0.84     45957
+             1.0       0.24      0.80      0.37      4779
+    
+        accuracy                           0.74     50736
+       macro avg       0.61      0.77      0.60     50736
+    weighted avg       0.90      0.74      0.79     50736
+    
+    KNeighborsClassifier ------- 
+                   precision    recall  f1-score   support
+    
+             0.0       0.97      0.70      0.82     45957
+             1.0       0.22      0.80      0.34      4779
+    
+        accuracy                           0.71     50736
+       macro avg       0.60      0.75      0.58     50736
+    weighted avg       0.90      0.71      0.77     50736
+    
+    DecisionTreeClassifier ------- 
+                   precision    recall  f1-score   support
+    
+             0.0       0.99      0.71      0.83     45957
+             1.0       0.25      0.93      0.40      4779
+    
+        accuracy                           0.73     50736
+       macro avg       0.62      0.82      0.61     50736
+    weighted avg       0.92      0.73      0.79     50736
+    
+    RandomForestClassifier ------- 
+                   precision    recall  f1-score   support
+    
+             0.0       0.99      0.74      0.85     45957
+             1.0       0.28      0.96      0.43      4779
+    
+        accuracy                           0.76     50736
+       macro avg       0.64      0.85      0.64     50736
+    weighted avg       0.93      0.76      0.81     50736
+    
+    GradientBoostingClassifier ------- 
+                   precision    recall  f1-score   support
+    
+             0.0       0.98      0.73      0.83     45957
+             1.0       0.24      0.82      0.37      4779
+    
+        accuracy                           0.74     50736
+       macro avg       0.61      0.77      0.60     50736
+    weighted avg       0.91      0.74      0.79     50736
+    
+    LGBMClassifier ------- 
+                   precision    recall  f1-score   support
+    
+             0.0       0.98      0.72      0.83     45957
+             1.0       0.24      0.83      0.37      4779
+    
+        accuracy                           0.74     50736
+       macro avg       0.61      0.78      0.60     50736
+    weighted avg       0.91      0.74      0.79     50736
+    
+
+
+
+```python
+# 모델별 Confusion Matrix 확인하기 (올바른 예)
+from sklearn.metrics import confusion_matrix
+
+for key, classifier in classifiers.items():
+    y_pred = classifier.predict(original_Xtest) ####
+    cm = confusion_matrix(original_ytest, y_pred) ####
+    print(classifier.__class__.__name__, '\n', cm, '\n')
+```
+
+    LogisticRegression 
+     [[33662 12295]
+     [  944  3835]] 
+    
+    KNeighborsClassifier 
+     [[32285 13672]
+     [  941  3838]] 
+    
+    DecisionTreeClassifier 
+     [[32646 13311]
+     [  315  4464]] 
+    
+    RandomForestClassifier 
+     [[34163 11794]
+     [  190  4589]] 
+    
+    GradientBoostingClassifier 
+     [[33504 12453]
+     [  858  3921]] 
+    
+    LGBMClassifier 
+     [[33315 12642]
+     [  791  3988]] 
+    
+
+
+## SMOTE로 Oversampling
+
+
+```python
+from imblearn.over_sampling import SMOTE
+
+
+sm = SMOTE()
+X_resampled, y_resampled = sm.fit_resample(original_Xtrain,list(original_ytrain))  ####
+
+
+print('Before SMOTE, original X_train: {}'.format(original_Xtrain.shape)) 
+print('Before SMOTE, original y_train: {}'.format(np.array(original_ytrain).shape))
+print('After  SMOTE, resampled original X_train: {}'.format(X_resampled.shape)) 
+print('After  SMOTE, resampled original y_train: {} \n'.format(np.array(y_resampled).shape))
+
+print("Before SMOTE,     fraud counts: {}".format(sum(np.array(original_ytrain)==1)))
+print("Before SMOTE, non-fraud counts: {}".format(sum(np.array(original_ytrain)==0)))
+print("After  SMOTE,     fraud counts: {}".format(sum(np.array(y_resampled)==1)))
+print("After  SMOTE, non-fraud counts: {}".format(sum(np.array(y_resampled)==0)))
+```
+
+    Before SMOTE, original X_train: (202944, 21)
+    Before SMOTE, original y_train: (202944,)
+    After  SMOTE, resampled original X_train: (367660, 21)
+    After  SMOTE, resampled original y_train: (367660,) 
+    
+    Before SMOTE,     fraud counts: 19114
+    Before SMOTE, non-fraud counts: 183830
+    After  SMOTE,     fraud counts: 183830
+    After  SMOTE, non-fraud counts: 183830
+
+
+
+```python
+from sklearn.metrics import accuracy_score, recall_score
+```
+
+
+```python
+# Logistic Regression 모델의 weight 파라미터 지정하기
+
+w = {1:0, 1:99} ## 불균형 클래스 weight 파라미터 지정
+
+# 모델 피팅
+logreg_weighted = LogisticRegression(random_state=0, class_weight=w) ### 
+logreg_weighted.fit(original_Xtrain,original_ytrain) ###
+
+# 예측값 
+y_pred = logreg_weighted.predict(original_Xtest) ###
+
+# 예측결과 확인하기
+print('Logistic Regression ------ Weighted')
+print(f'Accuracy: {accuracy_score(original_ytest,y_pred)}') ###
+
+print('\n')
+print(f'Confusion Matrix: \n{confusion_matrix(original_ytest, y_pred)}')###
+
+print('\n')
+print(f'Recall: {recall_score(original_ytest,y_pred)}') ###
+
+```
+
+    Logistic Regression ------ Weighted
+    Accuracy: 0.3363686534216336
+    
+    
+    Confusion Matrix: 
+    [[12341 33616]
+     [   54  4725]]
+    
+    
+    Recall: 0.9887005649717514
+
+
+
+```python
+# imblearn 패키지를 이용하여 예측 결과 확인하기
+from imblearn.metrics import classification_report_imbalanced
+
+label = ['Health','Heart_Disease'] 
+print(classification_report_imbalanced(original_ytest, y_pred, target_names=label))
+```
+
+                         pre       rec       spe        f1       geo       iba       sup
+    
+           Health       1.00      0.27      0.99      0.42      0.52      0.25     45957
+    Heart_Disease       0.12      0.99      0.27      0.22      0.52      0.28      4779
+    
+      avg / total       0.91      0.34      0.92      0.40      0.52      0.25     50736
+    
+
+
+
+```python
+# 재구축한 샘플 데이터로 모델 피팅하기
+logreg_resampled = LogisticRegression(random_state=0) ### 
+logreg_resampled.fit(X_resampled, y_resampled) ###
+
+# 예측값 구하기
+y_pred = logreg_resampled.predict(original_Xtest)
+
+print('Logistic Regression ------ Resampled Data')
+print(f'Accuracy: {accuracy_score(original_ytest,y_pred)}') ###
+print('\n')
+print(f'Confusion Matrix: \n{confusion_matrix(original_ytest, y_pred)}') ### 
+print('\n')
+print(f'Recall: {recall_score(original_ytest,y_pred)}') ###
+print('\n')
+print(' ---- ')
+```
+
+    Logistic Regression ------ Resampled Data
+    Accuracy: 0.7523060548722801
+    
+    
+    Confusion Matrix: 
+    [[34474 11483]
+     [ 1084  3695]]
+    
+    
+    Recall: 0.7731743042477506
+    
+    
+     ---- 
+
+
+
+```python
+for key, classifier in classifiers.items():
+    classifier.fit(X_train, y_train)
+    training_score = cross_val_score(classifier, X_train,y_train, cv=5)
+    print(classifier.__class__.__name__, ':', round(training_score.mean(), 2) * 100, '% accuracy')
+```
+
+    LogisticRegression : 76.0 % accuracy
+    KNeighborsClassifier : 71.0 % accuracy
+    DecisionTreeClassifier : 67.0 % accuracy
+    RandomForestClassifier : 76.0 % accuracy
+    GradientBoostingClassifier : 77.0 % accuracy
+    LGBMClassifier : 77.0 % accuracy
+
