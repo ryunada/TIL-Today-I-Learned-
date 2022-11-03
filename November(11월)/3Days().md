@@ -263,8 +263,7 @@ app_train['AMT_INCOME_TOTAL'].hist()
 
 
 
-    
-![png](output_13_1.png)
+![output_13_1](https://user-images.githubusercontent.com/87309905/199633527-8487fd87-06ad-48a5-8ccd-19a8d7328f28.png)
     
 
 
@@ -285,10 +284,9 @@ plt.hist(app_train['AMT_INCOME_TOTAL'])
 
 
 
+![output_14_1](https://user-images.githubusercontent.com/87309905/199633535-c63778af-6e64-4818-8e2f-405d0c87170f.png)
+    
 
-    
-![png](output_14_1.png)
-    
 
 
 
@@ -317,9 +315,9 @@ sns.distplot(app_train['AMT_INCOME_TOTAL'])
 
 
 
-    
-![png](output_15_2.png)
-    
+
+![output_15_2](https://user-images.githubusercontent.com/87309905/199633543-7d37ff74-5e34-4f0e-9bb9-4a879a6277a9.png)
+   
 
 
 
@@ -334,11 +332,8 @@ sns.boxplot(app_train['AMT_INCOME_TOTAL'])
     <AxesSubplot:>
 
 
+![output_16_1](https://user-images.githubusercontent.com/87309905/199633558-a68eda02-413f-48be-bf1e-31f421094703.png)
 
-
-    
-![png](output_16_1.png)
-    
 
 
 ## AMT_INCOME_TOTAL이 1000000 이하인 값에 대한 분포도
@@ -358,40 +353,7 @@ app_train[app_train['AMT_INCOME_TOTAL'] < 1000000]['AMT_INCOME_TOTAL'].hist()
 
 
 
-    
-![png](output_18_1.png)
-    
-
-
-
-```python
-# distplot으로 histogram 표현
-sns.distplot(app_train[app_train['AMT_INCOME_TOTAL']<1000000]['AMT_INCOME_TOTAL'])
-```
-
-    /var/folders/hf/9cldw65x7j71qr4hjbw44yjc0000gn/T/ipykernel_4955/2498703021.py:2: UserWarning: 
-    
-    `distplot` is a deprecated function and will be removed in seaborn v0.14.0.
-    
-    Please adapt your code to use either `displot` (a figure-level function with
-    similar flexibility) or `histplot` (an axes-level function for histograms).
-    
-    For a guide to updating your code to use the new functions, please see
-    https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
-    
-      sns.distplot(app_train[app_train['AMT_INCOME_TOTAL']<1000000]['AMT_INCOME_TOTAL'])
-
-
-
-
-
-    <AxesSubplot:xlabel='AMT_INCOME_TOTAL', ylabel='Density'>
-
-
-
-
-    
-![png](output_19_2.png)
+![output_18_1](https://user-images.githubusercontent.com/87309905/199633564-0035c6f6-0b70-4a62-ba3d-a133ca31d2d9.png)
     
 
 
@@ -421,11 +383,40 @@ sns.distplot(app_train[app_train['AMT_INCOME_TOTAL']<1000000]['AMT_INCOME_TOTAL'
 
 
 
+![output_19_2](https://user-images.githubusercontent.com/87309905/199633566-1c29379f-ce43-4a8d-9285-fecb678faf2a.png)
 
     
-![png](output_20_2.png)
-    
 
+
+
+```python
+# distplot으로 histogram 표현
+sns.distplot(app_train[app_train['AMT_INCOME_TOTAL']<1000000]['AMT_INCOME_TOTAL'])
+```
+
+    /var/folders/hf/9cldw65x7j71qr4hjbw44yjc0000gn/T/ipykernel_4955/2498703021.py:2: UserWarning: 
+    
+    `distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+    
+    Please adapt your code to use either `displot` (a figure-level function with
+    similar flexibility) or `histplot` (an axes-level function for histograms).
+    
+    For a guide to updating your code to use the new functions, please see
+    https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+    
+      sns.distplot(app_train[app_train['AMT_INCOME_TOTAL']<1000000]['AMT_INCOME_TOTAL'])
+
+
+
+
+
+    <AxesSubplot:xlabel='AMT_INCOME_TOTAL', ylabel='Density'>
+
+
+
+![output_20_2](https://user-images.githubusercontent.com/87309905/199633572-1a7b45f0-a399-4084-9794-32df172247af.png)
+
+    
 
 ## TARGET 값에 따른 AMT_INCOME_TOTAL 값 분포도 비교
 - distplot과 violinplot 시각화
@@ -476,7 +467,8 @@ sns.distplot(app_train[cond1 & cond_amt]['AMT_INCOME_TOTAL'], label = '1', color
 
 
     
-![png](output_22_2.png)
+
+![output_22_2](https://user-images.githubusercontent.com/87309905/199633578-cf8a74b8-7fca-4d6d-a8bf-ad719800bf0d.png)
     
 
 
@@ -493,10 +485,9 @@ sns.violinplot(x = 'TARGET', y = 'AMT_INCOME_TOTAL', data = app_train[cond_amt])
 
 
 
+![output_23_1](https://user-images.githubusercontent.com/87309905/199633583-ea66ebc3-c074-4f5a-b93d-eade7791f327.png)
 
-    
-![png](output_23_1.png)
-    
+ 
 
 
 
@@ -507,7 +498,7 @@ fig, axis = plt.subplots(figsize = (12, 4), nrows = 1, ncols = 2)
 
 
     
-![png](output_24_0.png)
+![output_24_0](https://user-images.githubusercontent.com/87309905/199633593-2a16ec37-0bdc-4db7-8304-323d581db7eb.png)
     
 
 
@@ -559,7 +550,8 @@ sns.distplot(app_train[cond1 & cond_amt]['AMT_INCOME_TOTAL'], ax = axs[0][1], la
 
 
     
-![png](output_25_2.png)
+
+![output_25_2](https://user-images.githubusercontent.com/87309905/199633596-2a113f26-73a2-4fd6-bc52-891d6f25d379.png)
     
 
 
@@ -605,8 +597,7 @@ show_column_hist_by_target(app_train, 'AMT_CREDIT', is_amt=True)
 
 
 
-    
-![png](output_26_1.png)
+![output_26_1](https://user-images.githubusercontent.com/87309905/199633603-4cedb287-7732-4a6e-abe0-f6149aaacb96.png)
     
 
 
