@@ -262,11 +262,9 @@ app_train['AMT_INCOME_TOTAL'].hist()
     <AxesSubplot:>
 
 
+![output_13_1](https://user-images.githubusercontent.com/87309905/199641560-36ba91c3-b896-4229-92c9-da784211fad3.png)
 
 
-    
-![png](output_13_1.png)
-    
 
 
 
@@ -285,11 +283,8 @@ plt.hist(app_train['AMT_INCOME_TOTAL'])
      <BarContainer object of 10 artists>)
 
 
-
-
-    
-![png](output_14_1.png)
-    
+![output_14_1](https://user-images.githubusercontent.com/87309905/199641572-dbb34b1b-1c2a-4077-ab72-c030f5f8d7f5.png)
+   
 
 
 
@@ -319,8 +314,7 @@ sns.distplot(app_train['AMT_INCOME_TOTAL'])
 
 
     
-![png](output_15_2.png)
-    
+![output_15_2](https://user-images.githubusercontent.com/87309905/199641581-ac2b26c6-4d1b-46ee-8d9b-ae77d9c06d01.png)
 
 
 
@@ -338,7 +332,7 @@ sns.boxplot(app_train['AMT_INCOME_TOTAL'])
 
 
     
-![png](output_16_1.png)
+![output_16_1](https://user-images.githubusercontent.com/87309905/199641590-896d5cdf-7227-4954-add7-c1af34959e14.png)
     
 
 
@@ -359,9 +353,8 @@ app_train[app_train['AMT_INCOME_TOTAL'] < 1000000]['AMT_INCOME_TOTAL'].hist()
 
 
 
-    
-![png](output_18_1.png)
-    
+![output_18_1](https://user-images.githubusercontent.com/87309905/199641596-0f309814-15bc-4bec-811b-a23ebe3f7337.png)
+
 
 
 
@@ -390,10 +383,8 @@ sns.distplot(app_train[app_train['AMT_INCOME_TOTAL']<1000000]['AMT_INCOME_TOTAL'
 
 
 
-
     
-![png](output_19_2.png)
-    
+![output_19_2](https://user-images.githubusercontent.com/87309905/199641605-8acfc71f-bbd3-45c1-8aab-ac995f2695df.png)
 
 
 ## TARGET 값에 따른 AMT_INCOME_TOTAL 값 분포도 비교
@@ -443,10 +434,8 @@ sns.distplot(app_train[cond1 & cond_amt]['AMT_INCOME_TOTAL'], label = '1', color
 
 
 
-
-    
-![png](output_21_2.png)
-    
+![output_21_2](https://user-images.githubusercontent.com/87309905/199641612-6c89dadc-0a20-4a87-8bc7-fc491fde7321.png)
+   
 
 
 
@@ -463,8 +452,8 @@ sns.violinplot(x = 'TARGET', y = 'AMT_INCOME_TOTAL', data = app_train[cond_amt])
 
 
 
-    
-![png](output_22_1.png)
+
+![output_22_1](https://user-images.githubusercontent.com/87309905/199641621-7ce91489-8148-4d2f-a38b-1ded1fedc546.png)
     
 
 
@@ -475,8 +464,8 @@ fig, axis = plt.subplots(figsize = (12, 4), nrows = 1, ncols = 2)
 ```
 
 
-    
-![png](output_23_0.png)
+
+![output_23_0](https://user-images.githubusercontent.com/87309905/199641626-ae5845a3-6535-4ae1-8a23-851fe9e754fb.png)
     
 
 
@@ -527,8 +516,8 @@ sns.distplot(app_train[cond1 & cond_amt]['AMT_INCOME_TOTAL'], ax = axs[0][1], la
 
 
 
-    
-![png](output_24_2.png)
+
+![output_24_2](https://user-images.githubusercontent.com/87309905/199641636-0d0630e3-38e0-42fa-b7ac-08fc32d9f834.png)
     
 
 
@@ -575,8 +564,7 @@ show_column_hist_by_target(app_train, 'AMT_CREDIT', is_amt=True)
 
 
     
-![png](output_25_1.png)
-    
+![output_25_1](https://user-images.githubusercontent.com/87309905/199641645-9a669067-78a6-424c-ad99-8c6b90779cf6.png)
 
 
 ### app_train과 app_test를 합쳐서 한번에 데이터 preprocessing 수행
@@ -1020,8 +1008,8 @@ plot_importance(clf, figsize=(16, 32))
 
 
 
-    
-![png](output_55_1.png)
+
+![output_55_1](https://user-images.githubusercontent.com/87309905/199641667-eae10d86-c4ab-420f-b27d-a039fac963e9.png)
     
 
 
