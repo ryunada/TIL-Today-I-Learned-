@@ -60,9 +60,11 @@
 
 > ## 23.01.11(수)
 > > 컴퓨터 비전 소개 패션 MNLST 코드 정리
-> > <img width="50%" alt="스크린샷 2023-01-12 오후 9 26 18" src="https://user-images.githubusercontent.com/87309905/212066143-3a6d2365-d1df-47d6-9644-c50a53752a62.png">  
+> > 
+> > <img width="50%" alt="스크린샷 2023-01-12 오후 9 26 18" src="https://user-images.githubusercontent.com/87309905/212066143-3a6d2365-d1df-47d6-9644-c50a53752a62.png">   
 > >  
 > > <img width="50%" alt="스크린샷 2023-01-12 오후 9 27 00" src="https://user-images.githubusercontent.com/87309905/212066283-f72abf3c-9285-402c-85fe-0b5290c16a1f.png">  
+> > 
 > > 영어공부 2page   
 > > [ 모르는 단어 ]
 > > clearly 
