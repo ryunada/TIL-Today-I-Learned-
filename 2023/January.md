@@ -31,10 +31,10 @@
 > > <img width="50%" alt="스크린샷 2023-01-10 오후 9 32 24" src="https://user-images.githubusercontent.com/87309905/211552585-d208ca77-8e15-4b6d-9be7-7a94cd0dfd06.png">     
 > > 
 > > 영어공부 1page   
-> > [ 모르는 단어 ]
+> > [ 모르는 단어 ]  
 > > fundamental | a. 근본[본질]적인, 핵심적인, 필수적인 / n. 기본 원칙[법칙], 핵심     
-> > concept | n. 개념
-> > rise | n. 증가[상승] , 임금[급여] 인상 / v. 오르다, 올라가다  
+> > concept | n. 개념  
+> > rise | n. 증가[상승] , 임금[급여] 인상 / v. 오르다, 올라가다   
 > > popularity | n. 인기  
 > > potential | a. (~이 될) 가능성이 있는, 잠재적인 / n. 가능성, 잠재력  
 > > past | a. 지나간, 지난, 최근의 / n. 과거, 지난날  
