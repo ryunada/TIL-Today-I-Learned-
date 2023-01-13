@@ -66,5 +66,26 @@
 > > <img width="50%" alt="스크린샷 2023-01-12 오후 9 27 00" src="https://user-images.githubusercontent.com/87309905/212066283-f72abf3c-9285-402c-85fe-0b5290c16a1f.png">  
 > > 
 > > 영어공부 2page   
-> > [ 모르는 단어 ]
-> > clearly 
+> > [ 모르는 단어 ]  
+> > clearly | ad. 또렷하게, 분명히   
+> > mention | v. 말하다, 언급[거론]하다 / n. 언급  
+> > relate | v. 관련 시키다    
+> > handful | n. 즘, 움큼, 몇 안되는 수  
+> > pioneer | n. 개척자[선구자] / v. 개척하다.   
+> > nascent | a. 초기의  
+> > whether | ~ 인지  
+> > ramifications | n. (파생한) 결과  
+> > explore | v. 답사[탐사/탐험]하다. 탐구하다.  
+> > underlying | a. 근본적인[근원적인] / (다른것의)밑에 있는  
+> > brew | v. 양조하다.  
+> > prior | a. 사전의, 우선시하는  
+> > crystalize | v. 확고해지다.  
+> > proposal | n. 제안, 제의  
+> > proceed | v. 진행하다.  
+> > conjecture | n. 추측 / v. 추측하다.  
+> > aspect | n. 측면, 양상  
+> > precisely | ad. 바로, 꼭, 정확히  
+> > describe | v. 말하다, 묘사하다.  
+> > simulate | v. ~한 체[척]하다. 가장하다.  
+> > attempt | v. 시도하다. / n.시도  
+> > reserve | v. 예약하다.  
