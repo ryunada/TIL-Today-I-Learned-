@@ -101,3 +101,16 @@
 > > 
 > > 패션 MLIST 데이터셋 다운 error
 > > 
+
+> ## 23.01.14(토)  
+> > ## 독서 [아무것도 하지 않으면 아무것도 달라지지 않는다.]  
+> >   
+> > ## 깃 블로그  
+> > 참조 사이트  
+> > https://wlqmffl0102.github.io/posts/Making-Git-blogs-for-beginners-2/#step-3--jekyll-theme%EC%A7%80%ED%82%AC-%ED%85%8C%EB%A7%88-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0  
+> > https://velog.io/@shg4821/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-1  
+> >  사용할 테마  
+> >  http://jekyllthemes.org/themes/jekyll-theme-chirpy/  
+> >  
+> > ## 영어  
+> > 
