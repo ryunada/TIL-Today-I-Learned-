@@ -113,4 +113,13 @@
 > >  http://jekyllthemes.org/themes/jekyll-theme-chirpy/  
 > >  
 > > ## 영어  
-> > 문법 정리
+> > 문법 정리  
+> > 
+
+> ## 23.01.15(일)
+> > ## 독서 [ 아무것도 하지 않으면 아무것도 달라지지 않는다. ]
+> > 
+> > ## 영어 공부
+> > 문법 정리  
+> > 
+> > DeepLearning skill ppt 정리
