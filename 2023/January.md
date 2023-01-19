@@ -137,5 +137,13 @@
 > > 
 > > ## Deeplearning skill 정리
 > >
+
+
+> ## 23.01.18(수)
+> > ## Deeplearning skill 정리
 > > ## 서교수님과 미팅
 > > 
+
+> ## 23.01.19(목)
+> > Blog 개설 
+> > https://ryunada.github.io
