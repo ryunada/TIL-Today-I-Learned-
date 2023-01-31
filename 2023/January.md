@@ -167,3 +167,13 @@
 > > ### MachineLearning Skill 정리
 > > 
 > > ### Blog 
+> > 
+
+> ## 23.01.31(화)
+> > ### 독서 [ 아무것도 하지 않으면 아무것도 달라지지 않는다. ] (완독)
+> > 
+> > ## DeepLearning Skill 정리
+> > - 패션 MLIST, Hourse & Human DataSet | DNN, CNN
+> > 
+
+
