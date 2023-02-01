@@ -10,7 +10,8 @@
 |       DataSet 다루기       |                                                              |
 
 > 23.02.01(수)
-> > 독서 [ 멘탈을 바꿔야 인생이 바뀐다. ]
+> > ## 독서 
+> > [ 멘탈을 바꿔야 인생이 바뀐다. ]
 > > 
-> > DeepLearning skill 정리
+> > ## DeepLearning skill 정리
 
