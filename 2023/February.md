@@ -36,5 +36,5 @@
 > > ## blog 테마 적용
 > > 
 > > ## DeepLearning Skill 정리
-> > DeepLearning.ppt완료
+> > 딥러닝.ppt완료
 > > 
