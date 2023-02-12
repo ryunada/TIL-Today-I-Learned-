@@ -111,3 +111,8 @@
 > > 
 > > ## 영어 공부
 > > 9page
+> > 
+> > ## MachineLearning
+> > pandas 정리 완료
+
+
