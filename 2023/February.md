@@ -98,3 +98,8 @@
 > > 
 > > ## 독서
 > > [ 멘탈을 바꾸면 인생이 바뀐다. ]
+> > 
+> > ## MachineLearning Skill 
+> > Pandas
+
+
