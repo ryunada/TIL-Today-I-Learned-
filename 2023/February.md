@@ -115,4 +115,20 @@
 > > ## MachineLearning
 > > pandas 정리 완료
 
+> 23.02.13
+> > ## 독서 
+> > [ 멘탈을 바꾸면 인생이 바뀐다. ] 
+> > 완독
+> > 
+> > ## 영어 공부
+> > 10page
+> > 
+> > ## DeepLearning
+> > Optimizer 정리
+
+
+
+
+
+
 
