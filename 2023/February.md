@@ -126,9 +126,19 @@
 > > ## DeepLearning
 > > Optimizer 정리
 
+> 23.02.14
+> > ## 독서
+> > [시간은 되돌릴 수 없고 인생은 한번 뿐]
+> > 
+> > ## DeepLearning Skill 정리
+> > - Optimizer
+> > 
+> > ## 영어 공부 
+> > - 11page
 
-
-
+> 23.02.15
+> > ## DeepLearning Skill 정리
+> > - Optimizer
 
 
 
