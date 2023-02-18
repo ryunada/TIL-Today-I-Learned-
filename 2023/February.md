@@ -140,5 +140,19 @@
 > > ## DeepLearning Skill 정리
 > > - Optimizer
 
+> 23.02.16
+> > ## DeepLearning
+> > - Optimizer
+
+> 23.02.17
+> > ## 졸업식
+> > - Optimizer
+
+> 23.02.18
+> > ## 독서 
+> > [ 시간은 되돌릴 수 없고 인생은 한번 뿐 ]
+> > 
+> > ## DeepLearning
+> > - Optimizer
 
 
