@@ -165,3 +165,13 @@
 > 23.02.20
 > > ## DeepLearning
 > > - Optimizer
+
+> 23.02.21
+> > ## DeepLearning
+> > - Optimizer
+> > 
+> > ## MachineLearning
+> > - Scikit-Learn
+> > 
+> > ## 독서
+> > [ 시간은 되돌릴 수 없고 인생으 한번 뿐 ]
