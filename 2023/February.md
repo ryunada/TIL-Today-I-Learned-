@@ -188,3 +188,18 @@
 > > 
 > > ## DeepLearning
 > > - OPtimizer
+
+> 23.02.23
+> > ## 독서
+> > [ 시간은 되돌릴 수 없고 인생은 한번 뿐 ]
+> > 
+> > ## DeepLearning
+> > - Optimizer
+
+> 23.02.24
+> > ## 영어
+> > - 14page
+> > 
+> > ## MachineLeanring
+> > - ScikitLearn [완성]
+> > - Evaluation 
