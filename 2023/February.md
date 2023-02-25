@@ -203,3 +203,7 @@
 > > ## MachineLeanring
 > > - ScikitLearn [완성]
 > > - Evaluation 
+
+> 23.02.25
+> > ## DeepLearning
+> > - Optimizer
