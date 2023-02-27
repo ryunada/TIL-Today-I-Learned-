@@ -7,7 +7,7 @@
 | MachineLearning Skill 정리 | [ 완료 ]                                                     |
 |            Blog            | 틀 잡기                                                      |
 |  DeepLearning Skill 정리   | [ 완료 ]                                                     |
-|       DataSet 다루기       |                                                              |
+|       DataSet 다루기       |        X                                                      |
 
 > 23.02.01(수)
 > > ## 독서 
