@@ -3,10 +3,10 @@
 |            할일            | 목표                                                         |
 | :------------------------: | ------------------------------------------------------------ |
 |            독서            | 멘탈을 바꿔야 인생이 바뀐다. [ 완독 ]<br />시간은 되돌릴 수 없고 인생은 한번뿐 [ 완독 ] |
-|            영어            | [ Chapter1까지 ]                                             |
-| MachineLearning Skill 정리 | [ 완료 ]                                                     |
-|            Blog            | 틀 잡기                                                      |
-|  DeepLearning Skill 정리   | [ 완료 ]                                                     |
+|            영어            | [ Chapter1까지 ] X 15page                                             |
+| MachineLearning Skill 정리 | [ 완료 ]     X ScikitLearn까지                                                |
+|            Blog            | 틀 잡기               O                                       |
+|  DeepLearning Skill 정리   | [ 완료 ]                O                                     |
 |       DataSet 다루기       |        X                                                      |
 
 > 23.02.01(수)
