@@ -6,8 +6,16 @@
 4. DeepLearning (RNN)
 
 > ## 23.03.06(월)
-> > ## 독서
-> > [ 만일 내가 인생을 다시 산다면 ]
-> > ## DeepLearning
-> > RNN
+> > 1. 독서  
+> >   - [ 만일 내가 인생을 다시 산다면 ]  
 > > 
+> > 2. DeepLearning   
+> >   - RNN
+> > 
+
+> ## 23.03.07(화)
+> > 1. DeepLearning  
+> >   - RNN
+> > 
+> > 2. Server
+> >   - 원격 접속
