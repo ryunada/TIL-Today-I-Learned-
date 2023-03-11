@@ -45,3 +45,11 @@
 > > 
 > > 3. DeepLearning
 > >   - RNN(Recurrent Neural Network) 정리
+
+> ## 23.03.11(토)
+> > 1. DeepLearning
+> >   - RNN(Recurrent Neural Network) 정리
+
+> ## 23.03.12(금)
+> > 1. DeepLearning
+> >   - RNN(Recurrent Neural Network) 정리
