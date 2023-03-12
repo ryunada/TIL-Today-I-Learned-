@@ -50,6 +50,6 @@
 > > 1. DeepLearning
 > >   - RNN(Recurrent Neural Network) 정리
 
-> ## 23.03.12(금)
+> ## 23.03.12(일)
 > > 1. DeepLearning
 > >   - RNN(Recurrent Neural Network) 정리
