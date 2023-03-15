@@ -72,3 +72,8 @@
 > ## 23.03.15(수)
 > > 1. DeepLearning
 > >   - RNN(Recurrent Neural Network) 정리
+> > 2. 독서
+> >   - [만일 내가 인생을 다시 산다면]
+> > 3.영어
+> >   - 21page
+> >   
