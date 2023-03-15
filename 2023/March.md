@@ -53,3 +53,22 @@
 > ## 23.03.12(일)
 > > 1. DeepLearning
 > >   - RNN(Recurrent Neural Network) 정리
+
+> ## 23.03.13(월)
+> > 1. DeepLearning
+> >   - RNN(Recurrent Neural Network)정리
+> > 2. 영어 
+> >   - 18~19page
+> > 3. Programmers
+> >   - SQL 문제
+> >   - python 문제
+
+> ## 23.03.14(화)
+> > 1. DeepLearning
+> >   - RNN(Recurrent Neural Network) 정리
+> > 2. 영어
+> >   - 20page
+
+> ## 23.03.15(수)
+> > 1. DeepLearning
+> >   - RNN(Recurrent Neural Network) 정리
