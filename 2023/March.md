@@ -77,3 +77,8 @@
 > > 3.영어
 > >   - 21page
 > >   
+
+> ## 23.03.16(목)
+> > 1. DeepLearning
+> >   - RNN(Recurrent Neural Network) 정리
+> >   
