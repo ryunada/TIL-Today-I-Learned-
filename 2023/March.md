@@ -92,4 +92,13 @@
 > > 1. 독서
 > >   - [ 만일 내가 인생을 다시 산다면 ]
 > > 2. DeepLearning
-> >   - RNN(Reccurent Neural Network) 정
+> >   - RNN(Reccurent Neural Network) 정리
+> > 3. 영어
+> >   - 23~24(1/2) page
+
+> ## 23.03.19(일)
+> > 1. 영어  
+> >   - 24(2/2) ~ 25 page  
+> >   - Chapter1 Clear  
+> > 2. DeepLearning  
+> >   - RNN  
