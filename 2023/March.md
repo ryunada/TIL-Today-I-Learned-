@@ -102,3 +102,9 @@
 > >   - Chapter1 Clear  
 > > 2. DeepLearning  
 > >   - RNN  
+
+> ## 23.03.20(월)
+> > 1. DeepLeanring
+> >   - RNN
+> > 2. 독서
+> >   - [ 만일 내가 인생을 다시 산다면 ]
