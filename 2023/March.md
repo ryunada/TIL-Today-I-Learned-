@@ -116,4 +116,5 @@
 > >   - Chapter2 2page
 > > 2. DeepLearning
 > >   - RNN
-> >   
+> > 3. 독서
+> >   - [ 만일 내가 인생을 다시 산다면 ]
