@@ -109,11 +109,11 @@
 > > 2. 독서
 > >   - [ 만일 내가 인생을 다시 산다면 ]
 > > 3. 영어
-> >   - Chapter 2 1page
+> >   - Chapter 2 26page
 
 > ## 23.03.21(화)
 > > 1. 영어
-> >   - Chapter2 2page
+> >   - Chapter2 27page
 > > 2. DeepLearning
 > >   - RNN
 > > 3. 독서
@@ -147,7 +147,7 @@
 > > 2. DeepLearning
 > >   - RNN
 > > 3. 영어
-> >   - Chapter2 27~28 page
+> >   - Chapter2 28~29 page
 > > 4. 범주형 자료분석
 > >   - 복습
 
@@ -168,9 +168,17 @@
 > > 2. DeepLearning
 > >   - RNN
 > > 3. 영어 
-> >   - Chapter2 29~30page
+> >   - Chapter2 30~31page
 
 > ## 23.03.30(목)
 > > 1. 데이터 마이닝 정리
 > > 2. DeepLearning
 > >   - RNN 
+
+> ## 23.03.31(금)
+> > 1. 독서
+> >   - [ 기분이 태도가 되지 말자 ]
+> > 2. 영어
+> >   - Chapter2 32~33page
+> > 3. DeepLearning
+> >   - RNN
