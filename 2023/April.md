@@ -1,13 +1,13 @@
-4월 목표
-I. 독서
-  - 기분이 태도가 되지 말자
-  - 몰입
-II. 영어
-  - Chapter 2
-III. DeepLearning
-  - RNN
-IV. Machine Learning
-  - Skill 정리
+# 4월 목표  
+I. 독서  
+  - 기분이 태도가 되지 말자  
+  - 몰입  
+II. 영어  
+  - Chapter 2  
+III. DeepLearning  
+  - RNN  
+IV. Machine Learning  
+  - Skill 정리  
   
 > ## 2023.04.01(토) 
 > > I. 독서
