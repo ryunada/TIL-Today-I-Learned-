@@ -9,7 +9,7 @@ III. DeepLearning
 IV. Machine Learning
   - Skill 정리
   
-> # 2023.04.01(토) 
+> ## 2023.04.01(토) 
 > > I. 독서
 > >   - 기분이 태도가 되지 말자.  
 > > II. 영어
