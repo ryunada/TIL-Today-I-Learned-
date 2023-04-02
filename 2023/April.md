@@ -14,3 +14,9 @@ IV. Machine Learning
 > >   - 기분이 태도가 되지 말자.  
 > > II. 영어
 > >   - Chapter 2
+
+> ## 2023.04.02(일)
+> > I. 독서
+> >   - 기분이 태도가 되지 말자 [완독]
+> > II. DeepLearning
+> >   - RNN
