@@ -22,7 +22,11 @@ IV. Machine Learning
 > >   - RNN
 
 > ## 2023.04.03(월)
-> > I. DeepLearning
-> >   - RNN
-> > II. Blog
-> >   - Category
+> > I. DeepLearning  
+> >   - RNN  
+> > II. Blog  
+> >   - Category  
+> > III. 영어
+> >   - Chapter 2 ~37page
+> > IV. Data Mining
+> >   - 데이터 분할(Data Partitioning)
