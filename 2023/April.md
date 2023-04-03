@@ -20,3 +20,9 @@ IV. Machine Learning
 > >   - 기분이 태도가 되지 말자 [완독]
 > > II. DeepLearning
 > >   - RNN
+
+> ## 2023.04.03(월)
+> > I. DeepLearning
+> >   - RNN
+> > II. Blog
+> >   - Category
