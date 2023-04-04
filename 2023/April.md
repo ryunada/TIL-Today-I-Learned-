@@ -30,3 +30,7 @@ IV. Machine Learning
 > >   - Chapter 2 ~37page
 > > IV. Data Mining
 > >   - 데이터 분할(Data Partitioning)
+
+> ## 2023.04.04(화)
+> > I. DeepLearning
+> >   - RNN
