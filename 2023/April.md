@@ -34,3 +34,9 @@ IV. Machine Learning
 > ## 2023.04.04(화)
 > > I. DeepLearning
 > >   - RNN
+
+> ## 2023.04.05(수)
+> > I. DeeLearning
+> >   - RNN
+> > II. 영어
+> >   - Chapter 2 
