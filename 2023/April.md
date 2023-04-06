@@ -39,4 +39,8 @@ IV. Machine Learning
 > > I. DeeLearning
 > >   - RNN
 > > II. 영어
-> >   - Chapter 2 
+> >   - Chapter 2 ~ 39page
+
+> ## 2023.04.06(수)
+> > I. 독서
+> >   - [ 몰입 ]
