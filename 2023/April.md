@@ -43,7 +43,7 @@ IV. Machine Learning
 
 > ## 2023.04.06(목)
 > > I. 독서
-> >   - [ 몰입 ]
+> >   - [ 몰입 ]  
 > > II. 영어  
 > >   - Chapter 2 ~ 40page   
 
