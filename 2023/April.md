@@ -58,3 +58,5 @@
 > >   - [ 몰입 ]  
 > > 2. 영어  
 > >   - Chapter 2 ~ 41page
+> > 3. Data Mining
+> >   - Data Partitioning
