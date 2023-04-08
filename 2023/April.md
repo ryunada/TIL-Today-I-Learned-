@@ -1,56 +1,56 @@
 # 4월 목표  
-I. 독서  
+1. 독서  
   - 기분이 태도가 되지 말자  
   - 몰입  
-II. 영어  
+2. 영어  
   - Chapter 2  
-III. DeepLearning  
+3. DeepLearning  
   - RNN  
-IV. Machine Learning  
+4. Machine Learning  
   - Skill 정리  
   
 > ## 2023.04.01(토) 
-> > I. 독서
+> > 1. 독서
 > >   - 기분이 태도가 되지 말자.  
-> > II. 영어
+> > 2. 영어
 > >   - Chapter 2
 
 > ## 2023.04.02(일)
-> > I. 독서
+> > 1. 독서
 > >   - 기분이 태도가 되지 말자 [완독]
-> > II. DeepLearning
+> > 2. DeepLearning
 > >   - RNN
 
 > ## 2023.04.03(월)
-> > I. DeepLearning  
+> > 1. DeepLearning  
 > >   - RNN  
-> > II. Blog  
+> > 2. Blog  
 > >   - Category  
-> > III. 영어
+> > 3. 영어
 > >   - Chapter 2 ~37page
-> > IV. Data Mining
+> > 4. Data Mining
 > >   - 데이터 분할(Data Partitioning)
 
 > ## 2023.04.04(화)
-> > I. DeepLearning
+> > 1. DeepLearning
 > >   - RNN
 
 > ## 2023.04.05(수)
-> > I. DeeLearning
+> > 1. DeeLearning
 > >   - RNN
-> > II. 영어
+> > 2. 영어
 > >   - Chapter 2 ~ 39page
 
 > ## 2023.04.06(목)
-> > I. 독서
+> > 1. 독서
 > >   - [ 몰입 ]  
-> > II. 영어  
+> > 2. 영어  
 > >   - Chapter 2 ~ 40page   
 
 > ## 2023.04.07(금)
-> > I. 독서    
+> > 1. 독서    
 > >   -  [ 몰입 ]  
-> > II. DataMining  
+> > 2. DataMining  
 > >   - 데이터 분할(Data Paritioning)
 
 > ## 2023.04.08(토)
