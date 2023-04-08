@@ -48,5 +48,13 @@ IV. Machine Learning
 > >   - Chapter 2 ~ 40page   
 
 > ## 2023.04.07(금)
-> > I. 독서  
-> >   -  [ 몰입 ]
+> > I. 독서    
+> >   -  [ 몰입 ]  
+> > II. DataMining  
+> >   - 데이터 분할(Data Paritioning)
+
+> ## 2023.04.08(토)
+> > 1. 독서  
+> >   - [ 몰입 ]  
+> > 2. 영어  
+> >   - Chapter 2 ~ 41page
