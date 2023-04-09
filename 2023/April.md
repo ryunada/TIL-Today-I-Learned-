@@ -60,3 +60,10 @@
 > >   - Chapter 2 ~ 41page
 > > 3. Data Mining
 > >   - Data Partitioning
+
+> ## 2023.04.09(일)
+> > 1. 독서  
+> >   - [ 몰입 ]    
+> > 2. DeepLearning  
+> >   - RNN ppt 정리  
+> >   - RNN Code 정리  
