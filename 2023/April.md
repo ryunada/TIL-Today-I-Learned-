@@ -46,6 +46,7 @@
 > >   - [ 몰입 ]  
 > > 2. 영어  
 > >   - Chapter 2 ~ 40page   
+> >   - 하루 영어 문장 10개  
 
 > ## 2023.04.07(금)
 > > 1. 독서    
@@ -58,6 +59,7 @@
 > >   - [ 몰입 ]  
 > > 2. 영어  
 > >   - Chapter 2 ~ 41page
+> >   - 하루 영어 문장 10개
 > > 3. Data Mining
 > >   - Data Partitioning
 
@@ -67,3 +69,6 @@
 > > 2. DeepLearning  
 > >   - RNN ppt 정리  
 > >   - RNN Code 정리  
+> > 3. 영어
+> >   - 42page
+> >   - 하루 영어 문장 10개  
