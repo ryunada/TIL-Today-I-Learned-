@@ -126,3 +126,13 @@
 > >   - [ 몰입 ]
 > > 3. Coding Test Practice
 > >   - 숨어있는 숫자의 덧셈 (2)
+> > 4. DeepLearning
+> >   - RNN ppt finish
+
+> ## 2023.04.17(월)
+> > 1. 독서
+> >   - [ 몰입 ]
+> > 2. 영어
+> >   - 51page~52page(1/2)
+> > 3. DeepLearning
+> >   - Code
