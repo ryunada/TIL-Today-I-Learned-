@@ -175,3 +175,8 @@
 > >   - [ 몰입 ]
 > > 2. DeepLearning
 > >   - RNN
+
+> ## 2023.04.24(월)
+> > 1. DeepLearning(RNN ppt)
+> >   - (GRU 수정)
+> >   - (데이터 분할 섹션 추가)
