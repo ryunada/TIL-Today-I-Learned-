@@ -206,4 +206,3 @@
 > ## 2023.04.30(일)
 > > 1. DeepLearning(RNN ppt)
 > >   - 데이터 분할섹션
-> > 4. Data Mining
