@@ -12,3 +12,7 @@
 > > 2. DeepLearning
 > >   - RNN ppt
 > >   - RNN Code
+
+> ## 2023.05.04
+> > 1. 독서
+> >   - [ 몰입 ]
