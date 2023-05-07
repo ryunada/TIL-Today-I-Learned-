@@ -26,3 +26,9 @@
 > > 3. DeepLearning
 > >   - RNN PPT 완성
 > >   - RNN Code 완성
+
+> ## 2023.05.07
+> > 1. 독서
+> >   - [ 몰입 ]
+> > 2. DeepLearning
+> >   - RNN Code 진행중
