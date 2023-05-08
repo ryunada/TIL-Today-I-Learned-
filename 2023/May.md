@@ -32,3 +32,7 @@
 > >   - [ 몰입 ]
 > > 2. DeepLearning
 > >   - RNN Code 진행중
+
+> ## 2023.05.08
+> > 1. DeepLearning
+> >   - RNN Code 완성
