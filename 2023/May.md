@@ -36,3 +36,7 @@
 > ## 2023.05.08
 > > 1. DeepLearning
 > >   - RNN Code 완성
+
+> ## 2023.05.09
+> > 1. DeepLearning
+> >   - RNN Code 보완
