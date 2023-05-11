@@ -40,3 +40,11 @@
 > ## 2023.05.09
 > > 1. DeepLearning
 > >   - RNN Code 보완
+
+> ## 2023.05.10
+> > 1. DeepLearning
+> >   - RNN Code 완성~
+
+> ## 2023.05.11
+> > 1. DeepLearning
+> >   - RNN Code 완성
