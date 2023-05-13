@@ -48,3 +48,8 @@
 > ## 2023.05.11
 > > 1. DeepLearning
 > >   - RNN Code 완성
+
+> ## 2023.5.12
+> > 1. DeepLearning
+> >   - RNN Code 수정
+> > 2. 데이터 과학회
