@@ -53,3 +53,7 @@
 > > 1. DeepLearning
 > >   - RNN Code 수정
 > > 2. 데이터 과학회
+
+> ## 2023.5.14
+> > 1. DeepLearning
+> >   - RNN Code 완서어엉
