@@ -86,3 +86,14 @@
 
 > ## 2023.05.19
 > > 1. ADSP
+
+> ## 2023.05.20
+> > 1. ADSP 시험
+> > 2. DeepLearning
+> >   - CNN Code 정리
+
+> ## 2023.05.21
+> > 1. DeepLearning
+> >   - CNN Code 
+
+
