@@ -99,3 +99,10 @@
 > ## 2023.05.22
 > > 1. DeepLearning
 > >   - CNN Code 
+> > 2. 독서
+> >   [몰입]
+
+> ## 2023.05.23
+> > 1. DeepLearning
+> >   - CNN Code
+> > 2. 범주형 자료분석 과제
