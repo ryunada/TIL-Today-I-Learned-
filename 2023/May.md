@@ -106,3 +106,7 @@
 > > 1. DeepLearning
 > >   - CNN Code
 > > 2. 범주형 자료분석 과제
+
+> ## 2023.05.24
+> > 1. GAN
+> >   - History ppt
