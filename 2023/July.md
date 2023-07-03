@@ -7,3 +7,8 @@
 > >   - 머신런이 Skill 체크
 > > 3. Pandas In Action
 > >   - 9. Group By
+
+> ## 2023.07.03
+> > 1. 교수님과 미팅
+> > 2. Pandas In Action
+> >   - 9. GroupBy 객체
