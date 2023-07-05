@@ -12,3 +12,9 @@
 > > 1. 교수님과 미팅
 > > 2. Pandas In Action
 > >   - 9. GroupBy 객체
+
+> ## 2023.07.04
+> > 1. Pandas In Action
+> >    - 10. 병합 조인 및 연결
+> > 2. 모두의 딥러닝
+> >   - CNN, DNN
