@@ -157,3 +157,11 @@
 > > 1. 영어
 > > 2. 머신러닝 & 딥러닝 문제해결 전략
 > >    - Machine Learning Concept
+
+> ## 2023.07.25
+> > 1. 독서
+> >    - 역행자
+> > 2. 영어
+> >    - 12 Rules For Life
+> > 3. 머신러닝 & 딥러닝 문제해결 전략
+> >    - Machine Learning Concept
