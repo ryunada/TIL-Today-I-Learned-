@@ -165,3 +165,7 @@
 > >    - 12 Rules For Life
 > > 3. 머신러닝 & 딥러닝 문제해결 전략
 > >    - Machine Learning Concept
+
+> ## 2023.07.26
+> > 1. 머신러닝 & 딥러닝 문제해결 전략
+> >    - Machine Learning Concept
