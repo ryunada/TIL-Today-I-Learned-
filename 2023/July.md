@@ -169,3 +169,14 @@
 > ## 2023.07.26
 > > 1. 머신러닝 & 딥러닝 문제해결 전략
 > >    - Machine Learning Concept
+> >        - Random Forest
+> >        - Ensemble
+> > 2. 영어
+> >    - 단어 암기
+
+> ## 2023.07.27
+> > 1. 머신러닝 & 딥러닝 문제해결 전략
+> >    - Machine Learning Concept
+> > 2. 영어
+> > 3. 독서
+> >    - 역행자
