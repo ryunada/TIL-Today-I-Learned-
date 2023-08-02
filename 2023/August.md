@@ -5,3 +5,7 @@
 > >    - Machine Learning Concept
 > >    - 향후 판매량 예측
 > > 4. Interview
+
+> ## 2023.08.02
+> > 1. 독서
+> >    - 역행자
