@@ -39,3 +39,13 @@
 > >    - Machine Learning 문제 정리
 > > 3. 독서
 > >    - 역행자
+
+> ## 2023.08.08
+> > 1. 영어
+> >    - 12 Rules for life
+> > 2. 독서
+> >    - 역행자
+> > 3. ML & DL 문제해결 전략
+> >    - 항공 사진 내 선인장 식별_torch
+> > 4. Pandas In Action
+> >    - 블로그
