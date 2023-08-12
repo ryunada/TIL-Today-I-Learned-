@@ -66,3 +66,14 @@
 > >    - 기달릴수 없다면, 위로할 수도 없다. _ 마음의 주인 문장
 > > 3. ML & DL 문제해결 전략
 > >    - 항공 사진 내 선인장 식별
+
+> ## 2023.08.11
+> > 1. 독서
+> >    - 마음의 주인
+> > 2. 영어
+> >    - A person who speaks warm words to others well, may be a person who want to speak them to himself
+> >    - 타인에게 따뜻한 말을 잘 돌려주는 사람은, 스스로에게도 그 말을 들려주고 싶은 사람일지도 모른다.
+> >    - I went to USA to study English
+> >    - 나는 영어공부를 하기 위해 미국으로 갔어요
+> > 3. ML & DL 문제해결 전략
+> >    - 항공 사진 내 선인장 식별
