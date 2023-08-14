@@ -92,3 +92,17 @@
 > >    - 나는 비가 오기전에 강아지와 산책을 갔어요.
 > > 3. ML & DL 문제해결 전략
 > >    - 항공 사진 내 선인장 식별
+
+> ## 2023.08.14
+> > 1. 독서
+> >    - 마음의 주인
+> > 2. ML & DL 문제해결 전략
+> >    - 항공 사진 내 선인장 식별
+> > 3. Pandas
+> > 4. 영어
+> >    - Text me when you get there
+> >    - 거기에 도착하면 연락해
+> >    - I haven't decided where to go yet
+> >    - 나는 아직 어디로갈지 결정 못했어
+> >    - Why do you think your life shouldn't be hard?
+> >    - 왜 당신은 당신의 삶이 힘들지 않아야 한다고 생각하는가?
