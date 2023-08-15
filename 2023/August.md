@@ -106,3 +106,12 @@
 > >    - 나는 아직 어디로갈지 결정 못했어
 > >    - Why do you think your life shouldn't be hard?
 > >    - 왜 당신은 당신의 삶이 힘들지 않아야 한다고 생각하는가?
+
+> ## 2023.08.15
+> > 1. 영어
+> >    - Can you tell me about it more detail?
+> >    - 그것에 대하여 나에게 좀 더 자세히 말해줄 수 있어?
+> >    - Can you show me how to watch Netfilx?
+> >    - 나한테 넷플릭스 어떻게 시청하는지 알려줄래요?
+> > 2. ML & DL 문제해결 전략
+> >    - 항공 사진 내 선인장 식별
