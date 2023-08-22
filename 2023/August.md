@@ -156,3 +156,12 @@
 > > 3. Programmers
 > >    - 신고 결과 받기
 > >    - 키패드 누르기
+
+> ## 2023.08.22
+> > 1. 영어
+> >    - 나는 길거리에서 옛 친구를 우연히 만났어
+> >    - By chance I meet my old friend on the street
+> >    - I ran into my old friend on the street
+> >    - 널 우연히 만나게 되다니 정말 반가워
+> >    - I'm so glad I ran into you
+> > 2. ML & DL 문제해결 전략
