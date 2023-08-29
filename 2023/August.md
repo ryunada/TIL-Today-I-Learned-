@@ -193,4 +193,7 @@
 > >    - I hurried to get the bus.
 > >    - 지금 전화로 얘기할 시간이 있어요?
 > >    - Do you have time to talk on the phone now?
-> >    - 
+
+> ## 2023.08.28
+> > 1. 데이콘 경진대회 1등 솔루션
+> > 2. 
