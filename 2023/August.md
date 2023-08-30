@@ -196,4 +196,32 @@
 
 > ## 2023.08.28
 > > 1. 데이콘 경진대회 1등 솔루션
-> > 2. 
+
+> ## 2023.08.29
+> > 1. 데이콘 경진대회
+> >    - KBO 타자 OPS 예측
+> > 2. 영어
+> >    - 10시 쯤에 전화를 주세요.
+> >    - please call me around 10 o'clock
+> >    - Give me a call around 10 o'clock
+> >    - 너 내 문자 받았어?
+> >    - Did you get my message?
+> >    - 나는 아침 7시에 일어납니다.
+> >    - I wake up morning at 7 o'clock
+> >    - I wake up at 7 o'clock in the morning
+
+> ## 2023.08.30
+> > 1. 데이콘 경진대회
+> >    - 반도체 박막 두께 분석
+> > 2. 영어
+> >    - 나는 운동 후 샤워를 했다
+> >    - I take shower after excercising
+> >    - 나는 오늘 아침에 집근처 공원에서 조깅 했다.
+> >    - I was jogged in the park around(near) my house in the morning
+> >    - I jogged at the park near my house this morning
+> >    - 조깅하다(현재) : jog | 조깅했다(과거) : jogged
+> >    - 나는 아침 8시 쯤에 집을 나선다.
+> >    - I leave my house around 8 o'clock
+> >    - I leave home around 8 a.m
+> >    - 집, 건물, 주택 : house | 집, 가정, 주거공간 : home
+> >    - 떠난다(현재) : leave [매일 반복되는 일에는 현재시제로]
