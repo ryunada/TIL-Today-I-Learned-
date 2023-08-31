@@ -225,3 +225,16 @@
 > >    - I leave home around 8 a.m
 > >    - 집, 건물, 주택 : house | 집, 가정, 주거공간 : home
 > >    - 떠난다(현재) : leave [매일 반복되는 일에는 현재시제로]
+
+> ## 2023.08.31
+> > 1. 데이콘 경진대회
+> >    - 반도체 박막 두께 분석
+> > 2. 독서
+> >    - 불편한 편의점
+> > 3. 영어
+> >    -  나는 아침식사 후에 나의 이빨을 닦는다.
+> >    -  I brush my teeth after breakfast
+> >    -  나는 일어나자마자 침대를 정리했다.
+> >    -  I cleaned my bed as soon as wake up
+> >    -  As soon as I got up, I made my bed.
+> >    
