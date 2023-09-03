@@ -11,3 +11,12 @@
 >    - 퇴근시간 버스 승차인원 예측
 > 2. 독서
 >    - 불편한 편의점 2
+
+> > ## 2023.09.03
+> 1. 독서
+>    - 불편한 편의점 2
+> 2. 영어
+>    - 나는 종종 점심을 먹고 낮잠을 잡니다.
+>    - I often take a nap after lunch
+>    - 우리가족은 5명 입니다.
+>    - There are Five people in my family
