@@ -20,3 +20,9 @@
 >    - I often take a nap after lunch
 >    - 우리가족은 5명 입니다.
 >    - There are Five people in my family
+
+> > ## 2023.09.04
+> 1. 데이콘 경진대회 1등 솔루션
+>    - 퇴근시간 버스 승차인원 예측
+> 2. 독서
+>    - 불편한 편의점 2
