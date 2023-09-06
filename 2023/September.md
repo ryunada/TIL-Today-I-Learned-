@@ -38,3 +38,10 @@
 >    - 불편한 편의점 2
 > 2. ML & DL 문제해결 전략
 >    - 자전거 대여 수요 예측
+> 3. 영어
+>    - 나의 부모님은 결혼한지 20년이 되었어요.
+>    - My parents have been married for 20 years.
+>    - 나는 맏이 입니다.
+>    - I'm the eldest
+>    - 나는 뭐라도 먹으려고 편의점에 갔다.
+>    - I went to convenience store to eat something
