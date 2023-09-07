@@ -45,3 +45,8 @@
 >    - I'm the eldest
 >    - 나는 뭐라도 먹으려고 편의점에 갔다.
 >    - I went to convenience store to eat something
+
+> > ## 2023.09.07
+> 1. 독서
+>    - 불편한 편의점 2
+> 2. Bike Sharing Project
