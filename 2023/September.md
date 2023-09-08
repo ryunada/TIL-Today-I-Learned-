@@ -50,3 +50,8 @@
 > 1. 독서
 >    - 불편한 편의점 2
 > 2. Bike Sharing Project
+
+> > ## 2023.09.08
+> > 1. 독서
+> >    - 불편한 편의점 2(완독)
+> > 2. Bike Sharing Project
