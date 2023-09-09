@@ -52,6 +52,11 @@
 > 2. Bike Sharing Project
 
 > > ## 2023.09.08
-> > 1. 독서
-> >    - 불편한 편의점 2(완독)
-> > 2. Bike Sharing Project
+> 1. 독서
+>    - 불편한 편의점 2(완독)
+> 2. Bike Sharing Project
+
+> > ## 2023.09.09
+> 1. 독서
+>    - 내면의 거인을 깨우는 방법 GIANT
+> 2. Bike Sharing Project
