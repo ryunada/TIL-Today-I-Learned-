@@ -60,3 +60,14 @@
 > 1. 독서
 >    - 내면의 거인을 깨우는 방법 GIANT
 > 2. Bike Sharing Project
+
+> > ## 2023.09.10
+> 1. 독서
+>    - 내면의 거인을 깨우는 방법 GIANT
+> 2. 영어
+>    - 엄마는 방 청소 하라고 항상 잔소리 해요.
+>    - My mom always nags me to clean up my room
+>    - 당신은 형제나 자매가 있습니까?
+>    - Do you have brothers and sisters?
+>    - 나는 아침을 과일과 달걀 스크램블로 가볍게 먹어요.
+>    - I have a light breakfast with fruits and sclambled eggs.
