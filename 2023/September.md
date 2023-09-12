@@ -71,3 +71,12 @@
 >    - Do you have brothers and sisters?
 >    - 나는 아침을 과일과 달걀 스크램블로 가볍게 먹어요.
 >    - I have a light breakfast with fruits and sclambled eggs.
+
+> > ## 2023.09.11
+> 1. 독서
+>    - 내면의 거인을 깨우는 방법 GIANT
+> 2. Bike Sharing Project
+> 3. 향후 판매량 예측
+
+> > ## 2023.09.12
+> 1. 향후 판매량 예측 완성
