@@ -84,3 +84,9 @@
 > > ## 2023.09.13
 > 1. Bike Sharing Project
 >    - 코드 완성
+
+> > ## 2023.09.14
+> 1. Bike Sharing Project
+>    - 수정
+> 2. 독서
+>    - 내면의 거인을 깨우는 방법 GIANT
