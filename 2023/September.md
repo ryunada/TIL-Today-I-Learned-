@@ -104,3 +104,8 @@
 > 1. Bike Sharing Project
 > 2. 독서
 >    - 내면의 거인을 깨우는 방법 GIANT
+> 3. 영어
+>    - 버스 대신에 택시를 타는것이 너는 어때?
+>    - Why don't you take a taxi instead of a bus?
+>    - 그것을 온라인으로 주문하는 것이 너는 어때?
+>    - Why don't you order it online?
