@@ -99,3 +99,8 @@
 
 > > ## 2023.09.16
 > 1. Bike Sharing Project
+
+> > ## 2023.09.17
+> 1. Bike Sharing Project
+> 2. 독서
+>    - 내면의 거인을 깨우는 방법 GIANT
