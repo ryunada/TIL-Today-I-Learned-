@@ -121,3 +121,17 @@
 >    - It was easy to catch a cold during the change of seasons
 >    - 요즘 날시가 쌀쌀해졌어요
 >    - The Weather has gotten cold these days
+
+> > ## 2023.09.19'
+> 1. Bike Sharing Project
+> 2. 독서
+>    - 내면의 거인을 깨우는 방법 GIANT
+> 3. 영어
+>    - 나는 친구랑 점싱 약속이 있어.
+>    - I have plans for lunch with friend
+>    - 나는 이번 주말에 어떤 약속도 없어
+>    - I don't have any pland this weekends
+>    - 그 버스는 30분 늦게 도착했어요.
+>    - This bus arrived 30 minutes late
+>    - 이 버스가 인천 공항에 가나요?
+>    - Does this bus go to Incehoen airport?
