@@ -135,3 +135,8 @@
 >    - This bus arrived 30 minutes late
 >    - 이 버스가 인천 공항에 가나요?
 >    - Does this bus go to Incehoen airport?
+
+> > ## 2023.09.20
+> 1. 독서
+>    - 내면의 거인을 깨우는 방법 GIANT
+> 2. Bike Sharing Project
