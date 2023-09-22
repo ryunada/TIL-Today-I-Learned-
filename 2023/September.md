@@ -140,3 +140,13 @@
 > 1. 독서
 >    - 내면의 거인을 깨우는 방법 GIANT
 > 2. Bike Sharing Project
+
+> > ## 2023.09.22
+> 1. 독서
+>    - 내면의 거인을 깨우는 방법 GIANT
+> 2. 영어
+>    - 나는 저 탄수화물 다이어트 중이에요.
+>    - I'm a low-carb diet.
+>    - 나는 진한 커피를 마시는 것을 좋아해요.
+>    - I like to drink strong coffee
+> 3. Bike Sharing Project
