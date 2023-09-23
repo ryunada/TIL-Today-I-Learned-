@@ -150,3 +150,8 @@
 >    - 나는 진한 커피를 마시는 것을 좋아해요.
 >    - I like to drink strong coffee
 > 3. Bike Sharing Project
+
+> > ## 2023.09.23
+> 1. 독서
+>    - 내면의 거인을 깨우는 방법 GIANT
+> 2. Bike Sharing Project
