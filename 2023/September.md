@@ -155,3 +155,6 @@
 > 1. 독서
 >    - 내면의 거인을 깨우는 방법 GIANT
 > 2. Bike Sharing Project
+
+> > ## 2023.09.24
+> 1. Bike Sharing Project
