@@ -16,3 +16,6 @@
 >    - 내 목표는 외국인과 대화를 하는 것이야
 >    - My goal is to talk with foreigner
 > 3. Traffic Project
+
+> > ## 2023.10.04
+> 1. Bike Sharing Proejct
