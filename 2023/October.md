@@ -19,3 +19,12 @@
 
 > > ## 2023.10.04
 > 1. Bike Sharing Proejct
+> 2. 영어
+>    - 행복은 질병업싱 사는 것이다.
+>    - Happiness is to live without disease
+>    - 여기에서 나를 내려줄 수 있어요?
+>    - Can you drop me off at here?
+>    - 내 노트북은 켜지는데(시작하는데) 시간이 오래걸려
+>    - It takes a long time to start my laptop
+>    - 노트북을 켜는데 오래걸려?
+>    - Does it take a long time to start your laptop?
