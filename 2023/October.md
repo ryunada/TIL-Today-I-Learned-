@@ -39,3 +39,5 @@
 >    - I got up earlier than usual
 >    - 나는 평소보다 늦게 일어났어요.
 >    - I got up later than usual
+> 2. 내면의 거인을 깨우는 방법(GIANT)
+> 3. BikeSharing Project
