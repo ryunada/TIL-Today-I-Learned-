@@ -28,3 +28,14 @@
 >    - It takes a long time to start my laptop
 >    - 노트북을 켜는데 오래걸려?
 >    - Does it take a long time to start your laptop?
+
+> > ## 2023.10.05
+> 1. 영어
+>    - 나는 살이쪄서 걱정이야
+>    - I'm worried about gaining weight
+>    - 나는 실수할까봐 걱정이야
+>    - I'm worried about making a mistake
+>    - 나는 평소보다 일찍 일어났어요
+>    - I got up earlier than usual
+>    - 나는 평소보다 늦게 일어났어요.
+>    - I got up later than usual
