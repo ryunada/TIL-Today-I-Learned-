@@ -41,3 +41,7 @@
 >    - I got up later than usual
 > 2. 내면의 거인을 깨우는 방법(GIANT)
 > 3. BikeSharing Project
+
+> > ## 2023.10.06
+> 1. 내면의 거인을 깨우는 방법(GIANT)
+> 2. BikeSharing Project
