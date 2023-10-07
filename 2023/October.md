@@ -45,3 +45,10 @@
 > > ## 2023.10.06
 > 1. 내면의 거인을 깨우는 방법(GIANT)
 > 2. BikeSharing Project
+>    - Code Finish
+
+> > ## 2023.10.07
+> 1. Bike Sharing Project
+> 2. KBO 타자 OPS 예측
+
+> 
