@@ -51,4 +51,14 @@
 > 1. Bike Sharing Project
 > 2. KBO 타자 OPS 예측
 
-> 
+> > ## 2023.10.08
+> 1. 영어
+>    - 너는 그 컴퓨터의 가격을 확인해보는게 어때?
+>    - Why don't you check the price of the computer?
+>    - 아침 6시에 알람이 울립니다.
+>    - The alarm goes off at 6 AM
+>    - 냉장고에 먹을것이 아무것도 없어요.
+>    - There is nothing to eat in the fridge
+> 2. 독서
+>    - 내면의 거인을 깨우는 방법
+> 3. Bike Sharing Project Abstract
