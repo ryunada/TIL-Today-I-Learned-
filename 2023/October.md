@@ -62,3 +62,6 @@
 > 2. 독서
 >    - 내면의 거인을 깨우는 방법
 > 3. Bike Sharing Project Abstract
+
+> > ## 2023.10.09
+> 1. Bike Shareing Proejct Result Finish
