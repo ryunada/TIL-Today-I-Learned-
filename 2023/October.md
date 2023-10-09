@@ -67,3 +67,5 @@
 > 1. Bike Shareing Proejct Result Finish
 > 2. KBO 타자 OPS 예측
 > 3. Bike Sahring Project Abstract
+> 4. 독서
+>    - 내면의 거인을 깨우는 힘(GIANT)
