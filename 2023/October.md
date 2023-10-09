@@ -69,3 +69,4 @@
 > 3. Bike Sahring Project Abstract
 > 4. 독서
 >    - 내면의 거인을 깨우는 힘(GIANT)
+왜 잔디가 안채워지는거야
