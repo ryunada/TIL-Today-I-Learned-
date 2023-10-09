@@ -65,3 +65,5 @@
 
 > > ## 2023.10.09
 > 1. Bike Shareing Proejct Result Finish
+> 2. KBO 타자 OPS 예측
+> 3. Bike Sahring Project Abstract
