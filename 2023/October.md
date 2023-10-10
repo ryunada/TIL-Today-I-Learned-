@@ -81,3 +81,6 @@
 >    - I have a habit of biting my nails
 >    - 내 딸은 다리를 떠는 버릇이 있어요.
 >    - My dauther has a habit of shaking her leges
+> 2. 독서
+>    - 내면의 거인을 깨우는 힘 (GIANT)
+> 3, Bike Shareing Graph
