@@ -70,3 +70,14 @@
 > 4. 독서
 >    - 내면의 거인을 깨우는 힘(GIANT)
 왜 잔디가 안채워지는거야
+
+> > ## 2023.10.10.
+> 1. 영어
+>    - 집만한 곳이 없네요.
+>    - There is no place like home
+>    - 여기에는 화장실이 없어요
+>    - There is no bathroom in here
+>    - 나는 손톱을 물어뜯는 버릇이 있어요.
+>    - I have a habit of biting my nails
+>    - 내 딸은 다리를 떠는 버릇이 있어요.
+>    - My dauther has a habit of shaking her leges
