@@ -84,3 +84,6 @@
 > 2. 독서
 >    - 내면의 거인을 깨우는 힘 (GIANT)
 > 3, Bike Shareing Graph
+
+> > ## 2023.10.11
+> 1. Bike Sharing Code Finish
