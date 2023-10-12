@@ -87,3 +87,22 @@
 
 > > ## 2023.10.11
 > 1. Bike Sharing Code Finish
+
+> > ## 2023.10.12
+> 1. Bike Sharing Code Share
+> 2. 영어
+>    - 우유가 상하게 되었어요.
+>    - The milke has gone bad
+>    - 음식이 상했어요
+>    - The food has gone bad
+>    - 우유는 상하지 않았어요.
+>    - The milke han't gone bad
+>    - 초대해 주셔서 감사합니다.
+>    - Thank you for invitation
+>    - 도와주셔서 감사합니다.
+>    - Thank you for your help
+>    - 오늘 시간 내 주셔서 감사합니다.
+>    - Thank you for time today
+> 3. 독서
+>    - 내면의 거인을 깨우는 힘(GIANT) 완독
+>    - 
