@@ -105,4 +105,18 @@
 >    - Thank you for time today
 > 3. 독서
 >    - 내면의 거인을 깨우는 힘(GIANT) 완독
->    - 
+
+> > ## 2023.10.13
+> 1. 영어
+>    - 당신의 전화를 제가 좀 써도 될까요?
+>    - May I use your phone?
+>    - 펜 좀 쓸 수 있을까요?
+>    - May I use your pen?
+>    - 잠깐 펜 좀 빌릴 수 있을까요?
+>    - May I borrow your pen for the moment?
+>    - 그 파일은 맨 위 서랍에 있어요.
+>    - The file is in the top drawer.
+>    - 그 파일은 맨 아래 서랍에 있어요.
+>    - The file is in the bottom drawer.
+>    - 네 안경은 화장대 위에 있어요.
+>    - Your glasses are on the dressing desk.
