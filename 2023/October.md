@@ -121,3 +121,7 @@
 >    - 네 안경은 화장대 위에 있어요.
 >    - Your glasses are on the dressing desk.
 > 2. Bike Shareing Abstract
+
+> > ## 2023.10.14
+> 1. Bike Sharing Abstaract
+> 2. Bike Sharing Submission File Finsh
