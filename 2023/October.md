@@ -125,3 +125,15 @@
 > > ## 2023.10.14
 > 1. Bike Sharing Abstaract
 > 2. Bike Sharing Submission File Finsh
+
+> > ## 2023.10.15
+> 1. Bike Sharing Abstract
+> 2. 영어
+>    - 우리는 그가 여기에 머물도록 설득했어요.
+>    - We persuaded him to stay here.
+>    - 나는 강아지를 키우자고 부모님을 설득했어요.
+>    - I persuaded my parents to have a dog.
+>    - 나는 일주일에 두번 화분에 물을 줘요.
+>    - I water the plants twice a week
+>    - 우리 엄마는 아침마다 정원에 물을 주줘요.
+>    - My mom waters the garden every morning
