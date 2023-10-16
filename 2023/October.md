@@ -137,3 +137,7 @@
 >    - I water the plants twice a week
 >    - 우리 엄마는 아침마다 정원에 물을 주줘요.
 >    - My mom waters the garden every morning
+
+> > ## 2023.10.16
+> 1. Bike Sharing Abstract
+> 2. KBO 타자 OPS 예측
