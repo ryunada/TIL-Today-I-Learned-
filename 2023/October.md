@@ -141,3 +141,13 @@
 > > ## 2023.10.16
 > 1. Bike Sharing Abstract
 > 2. KBO 타자 OPS 예측
+
+> > ## 2023.10.17
+> 1. 독서
+>    - 무례한 사람에게 웃으며 대처하는 법
+> 2. Bike Sharing Project Abstract
+> 3. 기계학습 과제
+> 4. KBO 타자 OPS 예측
+
+> > ## 2023.10.18
+> 1. Bike Sharing Project Abstract English_V
