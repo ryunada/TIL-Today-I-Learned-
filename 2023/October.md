@@ -20,7 +20,7 @@
 > > ## 2023.10.04
 > 1. Bike Sharing Proejct
 > 2. 영어
->    - 행복은 질병업싱 사는 것이다.
+>    - 행복은 질병없이 사는 것이다.
 >    - Happiness is to live without disease
 >    - 여기에서 나를 내려줄 수 있어요?
 >    - Can you drop me off at here?
