@@ -154,3 +154,9 @@
 
 > > ## 2023.10.19
 > 1. Bike Sharing Project Abstract English_V
+
+> > ## 2023.10.20.
+> 1. Bike Sharing Project Abstract Engliash_V
+
+> > ## 2023.10.21.
+> 1. Bike Sharing Project Abstract Engliash_V Submission
