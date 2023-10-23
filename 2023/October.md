@@ -167,5 +167,13 @@
 > > ## 2023.10.23.
 > 1. Machine Learning Algorithm
 > 2. 영어
-> 3. 독서
+>    - 이 커피를 어디에서 샀어요?
+>    - Where did you buy this coffee?
+>    - 핸드폰을 어디서 잃어버렸어요?
+>    - Where did you loss your cellphone?
+>    - 매일 책을 읽는 것은 좋은 습관이에요.
+>    - Reading books every day is a good habit
+>    - 매일 읽기를 쓰는 것은 좋은 습관이에요.
+>    - Keeping a diary everyday is a good habit
+> 4. 독서
 >    - 무례한 사람에게 웃으며 대처하는 법
