@@ -163,3 +163,9 @@
 
 > > ## 2023.10.22.
 > 1. Bike Sharing Project Abstarct English_V Finish
+
+> > ## 2023.10.23.
+> 1. Machine Learning Algorithm
+> 2. 영어
+> 3. 독서
+>    - 무례한 사람에게 웃으며 대처하는 법
