@@ -177,3 +177,6 @@
 >    - Keeping a diary everyday is a good habit
 > 4. 독서
 >    - 무례한 사람에게 웃으며 대처하는 법
+
+> > ## 2023.10.24
+> 1. Machine Learnign Algorithm Finish
