@@ -180,3 +180,6 @@
 
 > > ## 2023.10.24
 > 1. Machine Learnign Algorithm Finish
+
+> > ## 2023.10.25
+> 1. Machine Leanring Algorithm Finish
