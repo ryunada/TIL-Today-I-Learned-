@@ -191,3 +191,9 @@
 > 1. 독서
 >    - 무례한 사람에게 웃으며 대처하는 법
 > 2. 영어
+>    - 나는 일자리를 찾고 있는 중이에요.
+>    - I'm looking for a job
+>    - 저는 아르바이트를 구하고 있어요.
+>    - I'm looking for a part time job
+>    - 저는 다시는 그 식당에 가지 않을거에요.
+>    - I'm not going to that restuarnt again.
