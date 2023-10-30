@@ -210,3 +210,5 @@
 >    - He shares a house with his coworkers.
 >    - 그 부부는 집안일을 똑같이 공유합니다.
 >    - The couple share the housework equally
+> 3. Gpu 사용량 확인 코드
+> 4. 
