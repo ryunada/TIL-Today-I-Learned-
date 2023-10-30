@@ -202,4 +202,11 @@
 > 1. 독서
 >    - 무례한 사람에게 웃으며 대처하는 법
 > 2. 영어
->    - 
+>    - 저의 최종목표는 세계를 여행하는 거에요.
+>    - My final dream is to travel around the world.
+>    - 저의 최종 목표는 사업을 시작하는 거에요.
+>    - My final plan is th start my own business.
+>    - 그는 직장동료들과 집을 공유한다.
+>    - He shares a house with his coworkers.
+>    - 그 부부는 집안일을 똑같이 공유합니다.
+>    - The couple share the housework equally
