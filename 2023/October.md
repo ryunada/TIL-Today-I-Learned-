@@ -197,3 +197,9 @@
 >    - I'm looking for a part time job
 >    - 저는 다시는 그 식당에 가지 않을거에요.
 >    - I'm not going to that restuarnt again.
+
+> > ## 2023.10.30.
+> 1. 독서
+>    - 무례한 사람에게 웃으며 대처하는 법
+> 2. 영어
+>    - 
