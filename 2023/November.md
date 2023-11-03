@@ -14,3 +14,11 @@
 >    - From now on, I won't eat anything after 6
 >    - 이제부터 영어 공부를 열심히 할거예요.
 >    - From now on, I study english harder
+
+> > ## 2023.11.02
+> 1. 독서
+>    - 무례한 사람에게 웃으며 대처하는 법
+> 2. Machine Learning Skill 정리
+
+> > ## 2023.11.03
+> 1. 포스터 생성
