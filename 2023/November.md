@@ -71,4 +71,17 @@
 > 1. 독서
 >    - 왜 살아야 하는가
 > 2. 시계열 모형 정리
-> 3. 
+
+> > ## 2023.11.14
+> 1. 독서
+> 2. 영어
+>    - 아침 7시에 내가 데리러 갈게요.
+>    - I will pick you up at 7.am
+>    - 내가 공항으로 데리러 갈게요.
+>    - I will pick you up at the airport
+>    - 이번 휴일에 우리 낚시하러 가요.
+>    - Let's go fishing together this holiday
+>    - 이번 휴일에 같이 캠핑가요.
+>    - Let's go campping together this holiday
+>    - 내 조카는 올 봄ㅇ에 호주로 이민을 갔어요.
+>    - My nephew emigrated to Austraila this spring
