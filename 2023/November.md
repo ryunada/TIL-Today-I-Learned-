@@ -91,4 +91,7 @@
 > 1. 독서
 >    - 왜 살아야 하는가
 > 2. 영어
-> 3. 
+>    - 내 필리핀 친구는 작년 9월에 한국으로 이민 왔어요.
+>    - My filifino friend immigrated at korea last year september
+>    - 내 여자친구는 근처 카페에서 공부하고 있어
+>    - My girlfriend is studying at a nearby cafe
