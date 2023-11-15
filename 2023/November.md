@@ -86,3 +86,9 @@
 >    - 내 조카는 올 봄ㅇ에 호주로 이민을 갔어요.
 >    - My nephew emigrated to Austraila this spring
 > 3. Machine Learning Algorithm 정리
+
+> > ## 2023.11.15
+> 1. 독서
+>    - 왜 살아야 하는가
+> 2. 영어
+> 3. 
