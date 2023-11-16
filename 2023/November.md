@@ -95,3 +95,17 @@
 >    - My filifino friend immigrated at korea last year september
 >    - 내 여자친구는 근처 카페에서 공부하고 있어
 >    - My girlfriend is studying at a nearby cafe
+
+> > ## 2023.11.16
+> 1. 독서
+>    - 왜 살아야 하는가
+> 2. 영어
+>    - 내 친구는 근처 서점에서 책을 읽고 있어
+>    - My friend is reading a book at a nearby bookstore
+>    - 그 넥타이의 디자인이 특이해요.
+>    - The design of the tie is unusal.
+>    - 오늘은 그저 평번한 하루였어요.
+>    - Today is just a ordinary day.
+>    - 난 너의 사교적인 성격이 부러워
+>    - I'm jealous of your sociable personality
+>    - be jealous of : ~ 가 부럽다.
