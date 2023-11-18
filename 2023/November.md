@@ -109,3 +109,6 @@
 >    - 난 너의 사교적인 성격이 부러워
 >    - I'm jealous of your sociable personality
 >    - be jealous of : ~ 가 부럽다.
+
+> > ## 2023.11.17
+> 1. Machine Learning Algorithms 정리
