@@ -123,3 +123,7 @@
 >    - I ate a piece of cake after dinner
 >    - 그는 다음주에 출장을 갈거에요.
 >    - He is going on a business trip next week.
+> 2. 독서
+>    - 왜 살아야 하는가
+> 3. Machine Learning Algorithms 정리
+> 4. 
