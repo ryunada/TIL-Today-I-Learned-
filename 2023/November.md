@@ -112,3 +112,14 @@
 
 > > ## 2023.11.17
 > 1. Machine Learning Algorithms 정리
+
+> > ## 2023.11.19
+> 1. 영어
+>    - 내가 컵을 바닥에 떨어뜨렸어.
+>    - I dropped the cup on the floor
+>    - 내가 커피를 내옷에 쏟았어
+>    - I spilled coffe on my dress.
+>    - 나는 저녁 식사 후에 케이크 한 조각을 먹었어요.
+>    - I ate a piece of cake after dinner
+>    - 그는 다음주에 출장을 갈거에요.
+>    - He is going on a business trip next week.
