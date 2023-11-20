@@ -126,4 +126,6 @@
 > 2. 독서
 >    - 왜 살아야 하는가
 > 3. Machine Learning Algorithms 정리
-> 4. 
+
+> > ## 2023.11.20
+> 1. Machine Learning Algorithms 정리
