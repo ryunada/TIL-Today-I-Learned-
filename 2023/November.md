@@ -135,3 +135,7 @@
 > 2. 독서
 >    - 왜 살아야 하는가?
 > 3. Multi GPU 사용
+
+> > ## 2023.11.22
+> 1. Machine Learning Algorithms 정리
+> 2. 
