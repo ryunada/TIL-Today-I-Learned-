@@ -138,4 +138,7 @@
 
 > > ## 2023.11.22
 > 1. Machine Learning Algorithms 정리
-> 2. 
+
+> > ## 2023.11.24
+> 1. Machine Learning ALgorithms 정리
+
