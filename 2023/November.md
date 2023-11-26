@@ -147,5 +147,6 @@
 > 2. 서버 정리 ( )
 
 > > ## 2023.11.26
-> 1. Machne Learning Alhorithms 정리
-> 2. 서버 정리 Finish
+> 1. Machne Learning Alhorithms 정리 
+> 2. 서버 정리 Finish (O)
+> 3. Ubuntu 명령어 정리 (O)
