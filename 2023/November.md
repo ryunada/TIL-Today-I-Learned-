@@ -148,4 +148,4 @@
 
 > > ## 2023.11.26
 > 1. Machne Learning Alhorithms 정리
-> 2. 서버 정리
+> 2. 서버 정리 Finish
