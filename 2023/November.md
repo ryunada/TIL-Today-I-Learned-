@@ -144,6 +144,8 @@
 
 > > ## 2023.11.25
 > 1. Machine Learning Algorithms 정리 Finish ( )
-> 2. 영어 ( )
-> 3. 독서 ( )
-> 4. 서버 정리 ( )
+> 2. 서버 정리 ( )
+
+> > ## 2023.11.26
+> 1. Machne Learning Alhorithms 정리
+> 2. 서버 정리
