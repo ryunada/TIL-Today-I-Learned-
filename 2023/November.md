@@ -167,3 +167,17 @@
 >    - 왜 살아야 하는가?
 >    - 역행자
 > 2. 영어
+>    - 나는 퇴근 후에 직장 상사와 저녁으로 피자를 먹었어.
+>    - I ate pizza for dinner with my boss after work.
+>    - 나는 작년에 이것을 홈쇼핑에서 샀어요.
+>    - I bought this at home shopping last year.
+>    - 내일 쇼핑하러 갈래요?
+>    - Do you want to go shopping tomorrow?
+>    - 나는 바지 한벌을 주문하려고 전화 했어요.
+>    - I called to order a pair of pants.
+>    - 아버지가 나에게 최근에 나온 새로운 아이폰을 사주셨어요.
+>    - I bought me a new iphone that came out recently.
+>    - 저 다음 정류장에서 내려요.
+>    - I'll get off at the next stop.
+>    - 저 이번역에서 내려요.
+>    - I'll get off at this station.
