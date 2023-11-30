@@ -181,3 +181,7 @@
 >    - I'll get off at the next stop.
 >    - 저 이번역에서 내려요.
 >    - I'll get off at this station.
+
+> > ## 2023.11.30
+> 1. 독서
+>    - 역행자
