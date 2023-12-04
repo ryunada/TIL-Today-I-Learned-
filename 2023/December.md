@@ -26,3 +26,18 @@
 >    - I will go to the bookstore to buy a book this afternoon.
 >    - 저에게 좋은 책 좀 추천해 주시겠어요?
 >    - Can you recommend me a good book?
+
+> > ## 2023.12.04
+> 1. 영어
+>    - 내 딸은 스터디 카페에서 밤을 새워 공부를 했습니다.
+>    - My daughter stayed up all night study at a study cafe.
+>    - 원하신다면, 자리를 변경해 드릴께요.
+>    -  If you want, I could swap seats.
+>    -  길 건너편에 편의점이 있어요.
+>    -  There is a convineance store across
+>    -  출근하는 길에 제 차가 고장 났어요.
+>    -  My car broke down on my way to work.
+>    -  좋은 자리를 얻고 싶다면 우리는 서둘러야 해.
+>    -  If you want to get a good seat, we have to hurry.
+>    -  그는 아침마다 샤워 후에 면도를 합니다.
+>    -  He shaves after shower every morning.
