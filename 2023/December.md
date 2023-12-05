@@ -41,3 +41,16 @@
 >    -  If you want to get a good seat, we have to hurry.
 >    -  그는 아침마다 샤워 후에 면도를 합니다.
 >    -  He shaves after shower every morning.
+
+> > ## 2023.12.05
+> 1. 영어
+>    - 언제 한번 점심 같이 먹어요.
+>    - Let's get together for lunch sometime
+>    - 이 시계가 왜 이렇게, 비싼지 모르겠어요.
+>    - I don't know why this watch is so expensive.
+>    - 지저분한 것 좀 봐, 너의 방은 정말 지저분해
+>    - Loot at this mess!, your room is so messy.
+>    - 전자레인지가 고장나서 새로 하나 사야해요.
+>    - The microwave oven is broken, so i need to buy a new one.
+>    - 저는 담음달에 연차를 낼 계획이에요.
+>    - I planning to take annual leave next month.
