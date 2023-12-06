@@ -54,3 +54,8 @@
 >    - The microwave oven is broken, so i need to buy a new one.
 >    - 저는 담음달에 연차를 낼 계획이에요.
 >    - I planning to take annual leave next month.
+
+> > ## 2023.12.06
+> 1. 독서
+>    - 역행자
+> 2. DL Project Data 정리
