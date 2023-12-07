@@ -64,3 +64,15 @@
 > 1. 독서
 >    - 역행자
 > 2. 영어
+>    - 저녁에 약속이 있어 칼퇴근 할게요.
+>    - I'll get off work on time becaues i have plans this evening.
+>    - 이 과제를 끝내려면 시간이 좀 걸려요.
+>    - It will take some time to finish this assignment.
+>    - 그는 면도하지 않은 얼굴로 늦게 출근했어요.
+>    - He came to work late with a unshaven face.
+>    - 옆집에 사는 남자는 콧수염을 기르고 있다.
+>    - The man who lives next door is growing a mustache.
+>    - 노란색 드레스를 입고 있는 그 소녀는 나의 귀여운 조카 입니다.
+>    - The girl who is wearing a yellow dress is my cute nephew.
+>    - 영화 보러 갈래요? 내가 예매할게요.
+>    - Do you want to go see a movie? I'll book tickets.
