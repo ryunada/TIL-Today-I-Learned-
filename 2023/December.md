@@ -76,3 +76,12 @@
 >    - The girl who is wearing a yellow dress is my cute nephew.
 >    - 영화 보러 갈래요? 내가 예매할게요.
 >    - Do you want to go see a movie? I'll book tickets.
+
+> > ## 2023.12.08
+> 1. 독서
+>    - 역행자
+> 2. 데이터 경진 대회
+>    - 퇴근시간 버스 승차인우너 예측
+> 3. Leet Code
+>    - SQL(602, 1934, 1164, 570, 1174)
+> 4. 지역 밀착 장학금 보고서 작성
