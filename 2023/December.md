@@ -91,3 +91,22 @@
 >    - 역행자
 > 2. 데이콘 경진대회 코드
 > 3. DL COde
+
+> > ## 2023.12.10
+> 1. 독서
+>    - 역행자
+> 2. DL Code
+> 3. 데이콘 경진대회 코드
+> 4. 영어
+>    - 나는 언젠가 파리에 꼭 가보고 싶어요
+>    - I really want to go Paris someday.
+>    - 지금 농담할 기분이 아니에요.
+>    - I don't feel like cracking joke now.
+>    - 나는 휴가를 다음주로 미뤘어요.
+>    - I put off my vacation untill next week
+>    - 나는 식물원에서 다양한 꽃들을 봤어요.
+>    - I saw various flowers in the botanical garden.
+>    - 나는 식물원에서 사진을 많이 찍었어요.
+>    - I take a lot of pictures in the botanical garden.
+>    - 많은 사람들이 홈쇼핑에서 물건을 구입합니다.
+>    - Many people buy things at home shopping.
