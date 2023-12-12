@@ -110,3 +110,17 @@
 >    - I take a lot of pictures in the botanical garden.
 >    - 많은 사람들이 홈쇼핑에서 물건을 구입합니다.
 >    - Many people buy things at home shopping.
+
+> > ## 2023.12.11
+> 1. 독서
+>    - 역행자
+> 2. 영어
+>    - 내가 어렸을 때, 아버지는 매일 밤 나에게 책을 읽어 주셨어요.
+>    - When I was young, My dad read me a book every night.
+>    - 이곳은 사진 찍기에 좋은 장소입니다.
+>    - This is a good place to take pictures.
+>    - 네 방이 정말 지저분해 지고 있어.
+>    - Your room is really getting messy.
+> 3. 기계학습 최종 제출
+> 4. Orange 3 실습
+> 5. DL Code
