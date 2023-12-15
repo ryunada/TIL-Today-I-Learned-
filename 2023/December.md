@@ -139,3 +139,8 @@
 >    - This is a good place to take pictures.
 >    - 네 방이 정말 지저분해 지고 있어.
 >    - Your room is really getting messy.
+
+> > ## 2023.12.14
+> 1. 겨울 방학 계획
+> 2. DL 순열 중요도
+> 3. 블로그 작성 리스트
