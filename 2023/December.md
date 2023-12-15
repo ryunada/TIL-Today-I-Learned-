@@ -131,4 +131,11 @@
 
 > > ## 2023.12.13
 > 1. 독서
->    - 역행지
+>    - 역행자
+> 2. 영어
+>    - 내가 어렸을 때, 아버지는 매일 밤 나에게 책을 읽어주셨어요.
+>    - When I was young, My dad read me a book every night.
+>    - 이곳은 사진 찍기에 좋은 장소입니다.
+>    - This is a good place to take pictures.
+>    - 네 방이 정말 지저분해 지고 있어.
+>    - Your room is really getting messy.
