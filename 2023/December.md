@@ -149,5 +149,19 @@
 > 1. 영어
 >    - 저는 건강을 위해서 비타민을 매일 먹어요.
 >    - I take vitamins every day for health
+>    - 제가 어떤 비타민을 먹어야 할까요?
+>    - What vitamins should i take?
+>    - 저는 3시에 치과 예약이 되어 있어요.
+>    - I have got a dental appointment at 3 o'clock
+>    - 오늘 회식이 있어서 늦을거예요.
+>    - I will be late becaues i have a company dinner.
+>    - 이번엔 내가 살께
+>    - I will pick up the bill this time
+>    - 나 다음달에 제주도로 여행가.
+>    - I'm going to travel to Jeju island next month.
+>    - 다행히 비가 오기전에 집에 도착했어요.
+>    - Fortunately, I got home befor it rained.
+>    - 화장대 위에 있는 내 핸드폰 좀 가져다 줄래?
+>    - Can you take me my phone on the dressing table?
 > 3. LeetCode(SQL)
 > 4. 데이콘 경진대회
