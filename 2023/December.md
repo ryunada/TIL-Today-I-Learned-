@@ -165,3 +165,9 @@
 >    - Can you take me my phone on the dressing table?
 > 3. LeetCode(SQL)
 > 4. 데이콘 경진대회
+
+> > ## 2023.12.16
+> 1. 독서
+>    - 틀을 꺠는 사고력
+> 2. 데이콘 경진대회
+> 3. NLP 공부
