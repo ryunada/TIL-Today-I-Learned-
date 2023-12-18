@@ -171,3 +171,23 @@
 >    - 틀을 꺠는 사고력
 > 2. 데이콘 경진대회
 > 3. NLP 공부
+
+> > ## 2023.12.17
+> 1. 영어
+>    - 문 좀 잡아 주시겠어요?
+>    - Could you hold the door for me?
+>    - 나는 어제 영화 보면서 눈이 퉁퉁 붓도록 울었어요.
+>    - I cried my eyes out while watching the movie yesterday.
+>    - 그녀는 시험을 망쳐서 펑펑 울고 있어요.
+>    - She is crying her eyes out becaues she failed the test.
+>    - 아침에 늦잠을 잤지만 다행히 나는 출근 시간에 맞춰 도착했어요.
+>    - I overslapt this morning but fortunately i arrived in time for work.
+>    - 비가 오기전에, 나는 강아지와 산책하러 갔어요.
+>    - Before it rained, I went for a walk with my dog.
+>    - 그는 영어 문법을 모르지만 외국인과 영어로 유창하게 대화합니다.
+>    - He doesn't know english grammers but talk fluently in english with foreginers.
+>    - 베스트 셀러 책들은 서점 입구에 있어요.
+>    - The best selling books are located at the entrance of bookstore.
+> 2. 독서
+>    - 틀을 깨는 사고력
+> 3. DL Data
