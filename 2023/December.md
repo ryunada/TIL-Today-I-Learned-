@@ -196,6 +196,26 @@
 > 1. 독서
 >    - 틀을 깨는 사고력
 > 2. 영어
+>    - 좋은 아침이에요. 잘 잤어요?
+>    - Good Morning, Did you sleep weel?
+>    - 저는 괜찮은데, 공기가 좀 건조했어요.
+>    - I'm good, but the air was a little dry
+>    - 그랬군요, 오늘은 가습기를 근처에 두고 자요.
+>    - No wonder, keep the humidifier nearby today.
+>    - 네 그렇게 해야 할 거 같아요.
+>    - Yeah, I think i should
+>    - 오늘 계획은 어떤가요?
+>    - What's your plan today?
+>    - 나의 계획은 헬스장을 가서 운동을 한 후 실험실에 가는 것입니다.
+>    - My plan is to go to gym, exercise, and then go to the lab.
+>    - 오늘 할일이 많은 가요?
+>    - Do you have a lot of work today?
+>    - 네, 영어공부, 독서, 데이콘 경진대회, 딥러닝 모형 생성등이 있습니다.
+>    - Yes, There are study english, reading a book, dacon contest, code of DL Model and so on.
+>    - 오. 고생이 많으시네요.
+>    - Oh you're have a hard time.
+>    - 오늘 하루도 힘내요.
+>    - Let's cheer up for today.
 
 > > ## 2023.12.19
 > 휴식
