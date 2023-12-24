@@ -231,3 +231,10 @@
 
 > > ## 2023.12.23
 > 1. Stroke DL
+
+> > ## 2023.12.24
+> 1. 영어
+>    - 나는 아침 6시에 일어납니다.
+>    - I wake up at 6 in the morning.
+>    - 나는 오늘 아침 6시에 일어났어요.
+>    - I woke up at 6 this morning.
