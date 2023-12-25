@@ -238,3 +238,28 @@
 >    - I wake up at 6 in the morning.
 >    - 나는 오늘 아침 6시에 일어났어요.
 >    - I woke up at 6 this morning.
+>    - 알람은 6시에 울립니다.
+>    - The alram goes off at 6 in the morning.
+>    - 나는 일어나자마자 침대를 정리했다.
+>    - As soon as i got up, i made my bed.
+>    - 야 그거 알아?
+>    - Yo, guess what?
+>    - 뭐?
+>    - What?
+>    - 나 오늘 PR 찍었어.
+>    - I hit a PR today.
+>    - 헐 대박!
+>    - No way!
+>    - 이제 스쿼트 60kg 해.
+>    - Yeah, I can squate a plate now.
+>    - 와 미쳤다.
+>    - That's crazzy.
+>    - 나도 분발해야 겠어.
+>    - Yo, I gotta get on your level.
+>    - 점심 뭐 먹었어?
+>    - Whay you eat for lunch?
+>    - Whay you eat today?
+>    - 둘이서 뭐 먹었어?
+>    - What you guys eat for lunch?
+
+> > ## 2023
