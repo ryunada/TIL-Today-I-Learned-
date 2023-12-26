@@ -262,4 +262,34 @@
 >    - 둘이서 뭐 먹었어?
 >    - What you guys eat for lunch?
 
-> > ## 2023
+> > ## 2023.12.25
+> 1. 영어
+>    - 얼음 물 좀 줄 수 있어요?
+>    - Can I have a cup of ice water please?
+>    - 얼음 물이요?
+>    - Ice water?
+>    - 네
+>    - Yeah
+>    - 여기 있어요.
+>    - Here you go
+>    - 고마워요
+>    - Thank you.
+>    - 별말씀을, 좋은 하루 되세요.
+>    - You're welcome, Have a good one.
+>    - 무엇을 드릴까요?
+>    - What can I get for you?
+>    - 용과 프레셔스 주세요.
+>    - Can I have a larget Mango Dragon fruits refresher.
+>    - 레몬에이드랑 만들어 주세요.
+>    - Can you make it with lemonade.
+>    - 라즈베리 시럽도 넣어 주세요.
+>    - Can you put couple pumbs of Raspberry.
+>    - 그리고 바닐라 시럽도 4번 넣어 주세요.
+>    - And then, four pumbs of Vanilla?
+>    - 라즈베리 시럽 2번과 바닐라 시럽 4번 맞나요?
+>    - So, two pumbs of Raspberry and four pumbs of Vanilla?
+>    - 라즈베리 시럽 3번 넣어 줄 수 있나요?
+>    - Can you put 3 pumbs of Raspberry?
+>    - 물론이죠.
+>    - Yes. of course.
+> 2. DL Data
