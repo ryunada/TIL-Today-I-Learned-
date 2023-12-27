@@ -293,3 +293,24 @@
 >    - 물론이죠.
 >    - Yes. of course.
 > 2. DL Data
+
+> > ## 2023.12.26
+> 1. 영어
+>    - 운동 끝나고 연구실 가는 길이야.
+>    - I hit the gym and I'm going lab
+>    - I'm heading lab from gym.
+>    - 어디서 일해요?
+>    - Why do you work?
+>    - 위에 미용실에서요.
+>    - up at the salons right here.
+>    - 학교 어디 다녀요?
+>    - What school do you go to?
+>    - 전공이 뭐였어요?
+>    - Whay was your major?
+>    - 그 당시에 여기 온지 2년 밖에 되지 않았다.
+>    - At the time, I was only here for 2 years.
+>    - 영어 하는 법을 전혀 몰랐어요.
+>    - The, I don't really know how to speak, reading, writing English.
+>    - 스트로 베리 프라프치노 주세요.
+>    - Let me have a strawberry Frap.
+> 2. 데이콘 경진대회
