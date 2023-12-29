@@ -319,3 +319,27 @@
 > 1. 독서
 >    - 틀을 깨는 사고력
 > 2. 데이콘 경진대회
+
+> > ## 2023.12.28
+> 1. 영어
+>    - 안녕하세요. 좋은 아침이에요.
+>    - Hi, Good Morning.
+>    - 한국어 조금이라도 할 줄 아시나요?
+>    - Can you speak Korean a little?
+>    - 저는 영어를 조금 할 수 있어요. 언젠가는 유창하게 대화하고 싶어요.
+>    - I can speak English a little. I want to be fluent in English Someday.
+>    - 천천히 말해 줄 수 있나요?
+>    - Can you speak slowly?
+>    - 실례가 안된다면 나와 스몰톡 해주지 않겠어?
+>    - If you don't mind, Can you do small talk to me?
+>    - 영어로 말하는 연습을 하겠습니다.
+>    - I'll practice speaking English.
+>    - 저는 수영하기 전에 체육관에 가요.
+>    - I go to the gym before swimming.
+>    - 거의 매일 연구실에 14시간씩 있어요.
+>    - I'm in the lab for 14 hours almost every day.
+>    - 자유형을 할 때, 너의 팔은 너무 구부러져있다.
+>    - When you do freestyle, your arm is too bent.
+>    - 팔을 펴서 돌려봐요.
+>    - Open your arm and turn them.
+> 2. 데이콘 경진대회
