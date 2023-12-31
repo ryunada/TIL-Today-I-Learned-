@@ -346,3 +346,30 @@
 
 > > ## 2023.12.29
 > 1. 데이콘 경진대회
+
+> > ## 2023.12.30
+> 1. 영어
+>    - 보조해 줄 수 있어?
+>    - Can you spot me?
+>    - 세트 사이에 나랑 같이 운동할래?
+>    - Can I work in with you?
+>    - 저녁 메뉴 좀 보여 줄래?
+>    - Dinner Actually Do you have a menu that I can see?
+>    - 여기와서 주문하는거 맞죠?
+>    - So I would just comd down and order here right?
+>    - 저기요.
+>    - Thank you sir.
+>    - 제가 어디로 가야 우버나 리프트를 탈 수 있읇지 아세요?
+>    - Do your know where I can go for uber or Lyft pick ups?
+>    - 무엇을 도와드릴까요?
+>    - How can I be of service?
+>    - 궁금한게 하나 있어요.
+>    - I just had a quick question.
+>    - 206방입니다.
+>    - This is room 206
+>    - 여기 있는 네스프레소 무료로 사용할 수 있나요?
+>    - Is the Nesspresso here, Complimentary by any chance?
+> 2. 독서
+>    - 퓨처 셀프
+> 3. 자연어 처리 공부
+> 4. 데이콘 경진대회
