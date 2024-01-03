@@ -19,3 +19,25 @@
 > 3. 데이콘 경진대회
 > 4. DL_Data
 > 5. ML_A_V2
+
+> > ## 2024.01.02
+> 1. 영어
+>    - Tell me what is your favorite part about being in America?
+>    - 미국에 와서 좋았던 점 한번 말해봐
+>    - Umm, peaceful, Like Korea is so busy you'll always to work.
+>    - 음 평화로워, 한국 항상 일해야 하니 바쁜것 같아.
+>    - It looks busy and people are busy.
+>    - 바빠보이기도 하고 실제로도 바쁘고
+>    - I'm still struggling tho(though)
+>    - 아직 영어는 힘들어
+>    - Why? you're English is so good.
+>    - 왜? 영어 잘하는데?
+>    - You work at a coffe shop.
+>    - 너 카페에서 일하잖아.
+>    - You talk to people allday.
+>    - 사람들이랑 매일 대화해야하니까.
+>    - That you walk at a coffe shop its gonna help your English so fast.
+>    - 영어 잘하는데 카페에서 일하는게 엄청 도움 될거야.
+>    - I have a lot of words I can't pronounce it right
+>    - 아직도 발음 못하는게 많아.
+> 2. 세미나
