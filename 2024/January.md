@@ -41,3 +41,8 @@
 >    - I have a lot of words I can't pronounce it right
 >    - 아직도 발음 못하는게 많아.
 > 2. 세미나
+
+> > ## 2024.01.03
+> 1. 전공 심화 표지 생성
+> 2. NLP 공부
+> 3. ML_A_V2
