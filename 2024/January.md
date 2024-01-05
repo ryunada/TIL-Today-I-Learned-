@@ -46,3 +46,27 @@
 > 1. 전공 심화 표지 생성
 > 2. NLP 공부
 > 3. ML_A_V2
+
+> > ## 2024.01.04
+> 1. 영어
+>    - What I'm gonna do today. Is well first, I'm gonna eat
+>    - 오늘 할게 뭐냐면, 일단 첫 번째로 밥을 먹고
+>    - and then I going to gym.
+>    - 그리고 나서 헬스장에 갈거야.
+>    - I Actually Door Dashed it a while ago.
+>    - 사실 아까 배달 시킨 거야.
+>    - I'm feeling hungry right now actually.
+>    - 사실 지금 배가 고프네요.
+>    - I approve this, I like that a lot.
+>    - 나 이거 인정, 완전 맘에 들어요.
+>    - I'm just gonna stay with this.
+>    - 전 이거 계속 먹을께요.
+>    - I mean it's like you can knock someone out with that.
+>    - 이걸로 사람을 기절시킬 수도 있겠어요.
+>    - It's quite nice to be here are experience this so.
+>    - 여기와서 이런 경험을 하는게 너무 좋아요.
+>    - Thank you for welcome us, and thank you for feeding us.
+>    - 저희를 환대해주셔서 감사하고 맛있는 음식을 제공해주셔서 감사합니다.
+>    - It was incredible.
+>    - 정말 좋았어요.
+> 2. ML_A_V2
