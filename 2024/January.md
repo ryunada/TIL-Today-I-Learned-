@@ -9,7 +9,7 @@
 >    - Good Morning. It's a bit early in the morning, and my voice doesn't really sound okay.
 >    - 좋은 아침입니다. 지금 되게 이른 아침이라 목소리가 많이 가라 앉은 상황이에요.
 >    - These day, I've been Miracle Morning Challenge.
->    - 요즘, 나느 ㄴ미라클 모닝 챌린지를 시작했어요.
+>    - 요즘, 나는 미라클 모닝 챌린지를 시작했어요.
 >    - But, I failed last week.
 >    - 하지만, 지난주에 실패 했어요.
 >    - It has been so hot for the past few weeks.
