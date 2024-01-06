@@ -70,3 +70,6 @@
 >    - It was incredible.
 >    - 정말 좋았어요.
 > 2. ML_A_V2
+
+> > ## 2024.01.05
+> 1. ML_A_V2 Finish
