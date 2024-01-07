@@ -73,3 +73,29 @@
 
 > > ## 2024.01.05
 > 1. ML_A_V2 Finish
+
+> > ## 2024.01.06
+> 1. 영어
+>    - Are you discriminating right now?
+>    - 당신 지금 차별하고 있습니까?
+>    - you know this is racism, right?
+>    - 이게 인종차별인거 아시죠?
+>    - How can I help you?
+>    - 무엇을 도와드릴까요?
+>    - I don't have a toothbrush with me.
+>    - 제가 칫솔이 없어서 그런데
+>    - Can you please, send a couple up to the room please.
+>    - 혹시 칫솔 좀 방에 올려주실수 있나요?
+>    - Ok no problem.
+>    - 네 물론이죠
+>    - Room number is 1135?
+>    - 방 번호가 1135호 맞나요?
+>    - Corret.
+>    - 맞습니다.
+>    - How many do you need? one or two?
+>    - 몇개가 필요하신가요? 하나? 두개?
+>    - Can I two please.
+>    - 2개 주세요.
+> 2. DL Data
+>    - Kalman Smooting
+> 3. NLP Study.
