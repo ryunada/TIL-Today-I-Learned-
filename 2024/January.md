@@ -99,3 +99,21 @@
 > 2. DL Data
 >    - Kalman Smooting
 > 3. NLP Study.
+
+> > ## 2024.01.06
+> 1. 영어
+>    - Can I get you guys started with some water?
+>    - I think we're ready to order.
+>    - yes sir. Is tap water okay though?
+>    - yes
+>    - What can I get you guys for food?
+>    - can you do the half a dozen oysters, and the labster fries. That'll be it.
+>    - For the oysters did you want to do East Coast, West Coast, or Mix
+>    - Mixed Please, What's the difference?
+>    - East Coast is gonna a little bit saltier.
+>    - But West Coast is gonna be bigger.
+>    - Okay, Can we just do the west Coast?
+>    - Yes sir.
+>    - We'll do that, Thank you.
+> 2. DL_Data
+> 3. ML_A_V2
