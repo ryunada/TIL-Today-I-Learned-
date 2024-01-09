@@ -117,3 +117,17 @@
 >    - We'll do that, Thank you.
 > 2. DL_Data
 > 3. ML_A_V2
+
+> > ## 2024.01.07
+> 1. 영어
+>    - If you life were a book and you were the author.
+>    - How would you want your story to go?
+>    - That's the question that changed my life forever.
+>    - Growing up in the hot last vegas desert.
+>    - All I wanted was to be free.
+>    - I would day dream about traveling the world,
+>    - living in a place where is snowed, and I would picture all of the stories that I would go on to tell.
+> 2. 독서
+>    - 퓨처셀프
+> 3. ML_A_V2
+> 4. 퇴근시간 버스 승차인원 예측
