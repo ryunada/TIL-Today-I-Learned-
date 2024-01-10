@@ -100,7 +100,7 @@
 >    - Kalman Smooting
 > 3. NLP Study.
 
-> > ## 2024.01.06
+> > ## 2024.01.07
 > 1. 영어
 >    - Can I get you guys started with some water?
 >    - I think we're ready to order.
@@ -118,7 +118,7 @@
 > 2. DL_Data
 > 3. ML_A_V2
 
-> > ## 2024.01.07
+> > ## 2024.01.08
 > 1. 영어
 >    - If you life were a book and you were the author.
 >    - How would you want your story to go?
@@ -131,3 +131,6 @@
 >    - 퓨처셀프
 > 3. ML_A_V2
 > 4. 퇴근시간 버스 승차인원 예측
+
+> > ## 2024.01.09
+> 1. 세미나
