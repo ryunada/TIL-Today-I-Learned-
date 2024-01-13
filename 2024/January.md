@@ -140,3 +140,16 @@
 
 > > ## 2024.01.11
 > 1. AutoEncoder 정리
+
+> > ## 2024.01.12
+> 1. 영어
+>    - Do you think it's possible to control someone's attension?
+>    - Even more than that, What about predicting human behavior?
+>    - I think those are interesting idea.
+>    - For me, That would be the perpect superpower, actually kind of an evil way of approching it.
+>    - But for myself, in the past, I've spent the last 20 years studying human behavier from a rather unothodx way:picking poket,
+>    - when we think of mis direction, we thiink of something as looking off the to the side, wwhen actually the things right in front of us are often the hardest to see, the things that you look at every day that you're blined to.
+> 2. 독서
+>    - 퓨처 셀프
+> 3. ML_A_V2
+> 4. NLP 공부
