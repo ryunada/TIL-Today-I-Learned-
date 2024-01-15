@@ -158,3 +158,16 @@
 > 1. 독서
 >    - 퓨처 셀프
 > 2. ML_A_V2
+
+> > ## 2024.01.14
+> 1. 영어
+>    - All right Good afternoon, y'all.
+>    - Let's talk about blending reality and imagination.
+>    - But first, let's talk a step back in time to 2001.
+>    - As all 11-year-old in india, I become obsessed with computer graphics and visual effects.
+>    - Of course, at that age, it meant making cheesy videos kind of like this.
+>    - But that quest has stayed with me and permeted across my decade-long carrer in tech, working as a product manager at companies like google and as a content creator on platform like YouTube and TikTok.
+> 2. 독서
+>    - 퓨처 셀프
+> 3. ML_A_V2
+> 4. 퇴근시간_버스승차인원_예측
