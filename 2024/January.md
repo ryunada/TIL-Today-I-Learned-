@@ -175,3 +175,19 @@
 > > ## 2024.01.15
 > 1. ML_A_V2 Finish
 > 2. 퇴근시간_버스_승차인원 예측 Finish
+
+> > ## 2024.01.16
+> 1. 영어.
+>    - How you can navigate longer carrer, starting with you next job change.
+>    - Number one. Highligh your human skills.
+>    - These are skills like adaptability, collaboration, exercising judgment or mediating tense situations.
+>    - To surface your human skills, make a timeline of all of your experiences, both personal and professional.
+>    - Second, become a skills translator.
+>    - You need to translate your skills into the language of your prospective employer.
+>    - Third, find data in discomfort.
+>    - Transform that discomfort around your skills gaps into action.
+>    - Finally, get picky.
+>    - You shouldn't be the only comitted to your skill develoment try to choos a company or organization that building talent from with in
+> 2. 퇴근시간_버스_승차인원예측
+> 3. NLP정리
+> 4. 세미나...
