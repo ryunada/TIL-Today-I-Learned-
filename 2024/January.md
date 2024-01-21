@@ -201,3 +201,15 @@
 
 > > ## 2023.01.19
 > 1. 휴식
+
+> > ## 2023.01.20
+> 1. 영어
+>    - AI's single point of failure
+>    - The following statment is utterly ludicrous. It is also true.
+>    - The world's most important advanced technology is nearly all produced in a single facility.
+>    - What's more, that facility is located in one of the most geopolitically fraught area on Earth,
+>    - an area in which many analysis belive that war is inevitable with in the decade.
+>    - The furture of artificial intelligence hangs in the balance.
+>    - The Taiwan Semiconductor Manufacturing company, or TSMC, makes all of the world's most-advanced AI chips.
+> 2. ML_A_V2
+> 3. NLP 정리
