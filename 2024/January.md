@@ -213,3 +213,21 @@
 >    - The Taiwan Semiconductor Manufacturing company, or TSMC, makes all of the world's most-advanced AI chips.
 > 2. ML_A_V2
 > 3. NLP 정리
+
+> > ## 2023.01.21
+> 1. 영어
+>    - You're not a procrastinator, you have a gabit of procrastinating. big difference
+>    - Because if it's a habit, I can teach you to use science to break it.
+>    - you see, all habits have tree parts, there's a tragger.
+>    - and in the case of procrastination.
+>    - the triggers always stress, then there's a pattern you repeat.
+>    - and in the case of procrastination it is to avoid doing something and then there's a reward.
+>    - you get a little stress relief.
+>    - The only way to break a habit, you guys, is not deal with the triggers.
+>    - you're never going to get ride of the stress in your life.
+>    - But you can 100% change your pattern of avoding work.
+>  2. NLP 정리
+>  3. DL Data
+>     - Kalman Smooting 적용
+>  4. 독서
+>     - 퓨처 셀프
