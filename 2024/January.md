@@ -234,5 +234,20 @@
 
 > > ## 2023.01.22
 > 1. 영어
+>    - < Do you reall need 8 hours of sleep every night? >
+>    - we're not getting worries we have about our sleep is that we're not getting enough
+>    - and that anything less than seven hours a night means we're doomed to bad health, everything from high blood pressure to Alzheimer's diease.
+>    - But there are two flaws with the kind of messaging.
+>    - The first flaw is that it's not completely accurate.
+>    - seven to eight hours of sleep, while recommended for adults is just an average.
+>    - And while messages have to be simplified for health communication to the public, sometimes important nuances get lot.
+>    - so yes, it's true that not getting enough sleep in the long term is associated with health problems like cradivoscala disease, diabetes, and depression.
+>    - But fixaing solely, on seven to eight hours ignores the fact that there's a range of sleep that people need.
+>    - The duration of a good night's sleep can be different for different people.
+>    - Some adults need eight, but some are just fine on six.
 > 2. NLP 정리
 > 3. DL Data
+
+> > ## 2023.01.23.
+> 1. 영어
+>    - Do you really
