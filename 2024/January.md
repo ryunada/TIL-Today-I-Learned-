@@ -199,10 +199,10 @@
 > > ## 2024.01.18
 > 1. 동계 워크숍 수업
 
-> > ## 2023.01.19
+> > ## 2024.01.19
 > 1. 휴식
 
-> > ## 2023.01.20
+> > ## 2024.01.20
 > 1. 영어
 >    - AI's single point of failure
 >    - The following statment is utterly ludicrous. It is also true.
@@ -214,7 +214,7 @@
 > 2. ML_A_V2
 > 3. NLP 정리
 
-> > ## 2023.01.21
+> > ## 2024.01.21
 > 1. 영어
 >    - You're not a procrastinator, you have a gabit of procrastinating. big difference
 >    - Because if it's a habit, I can teach you to use science to break it.
@@ -232,7 +232,7 @@
 >  4. 독서
 >     - 퓨처 셀프
 
-> > ## 2023.01.22
+> > ## 2024.01.22
 > 1. 영어
 >    - < Do you reall need 8 hours of sleep every night? >
 >    - we're not getting worries we have about our sleep is that we're not getting enough
@@ -248,7 +248,11 @@
 > 2. NLP 정리
 > 3. DL Data
 
-> > ## 2023.01.23.
+> > ## 2024.01.23.
 > 1. NLP 정리
 > 2. 세미나
 > 3. ML_A_V2
+
+> > ## 2024.01.24
+> 1. 독서
+> 2. DL_Data
