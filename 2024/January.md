@@ -256,3 +256,20 @@
 > > ## 2024.01.24
 > 1. 독서
 > 2. DL_Data
+
+> > ## 2024.01.25
+> 1. 영어
+>    - Pitching is much like telling a story.
+>    - Just like a movie tells a story.
+>    - You're charting the hero's journey in three acts.
+>    - First, you start by telling about the hero's world, the status quo.
+>    - In this case, the current situation that your product, idea or service will be addressing.
+>    - Then introduce tension and conflict, showing all the probelms that existing products aren't yet addressing.
+>    - This will lead you to the big confrontation.
+>    - You the hero swooping in to save the day.
+>    - How are things changed as a result of your actions?
+>    - How does your product, idea or service solve the problems you highlighted eariler?
+> 2. 독서
+>    - 틀을 깨는 사고력
+> 3. DL Data
+> 4. NLP 정리
