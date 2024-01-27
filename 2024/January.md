@@ -273,3 +273,14 @@
 >    - 틀을 깨는 사고력
 > 3. DL Data
 > 4. NLP 정리
+
+> > ## 2024.01.26
+> 1. 영어
+>    - < Can exercise actually "boost" your metabolism >
+>    - We have to first dig deeper into what metabolism is.
+>    - No surprise, metabolism is really complex, and scientists and researchers are still discovering many new things about it.
+>    - Very simply, metabolism is the set of chemical reactions in every cell of our body that harnesses energy to keep us alive.
+>    - So much of what happens in out bodies is metabolism, making new cells is metabolism, grouwing hair metabolism, and converting food into energy is metabolism.
+>    - The sum total energy of all the metabolic processes that occur throughout our body is measured in calories.
+>    - And suprisingly, exercise is usually a small percentage of our daily calories burn.
+> 2. NLP
