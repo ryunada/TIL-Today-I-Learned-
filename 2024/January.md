@@ -284,3 +284,17 @@
 >    - The sum total energy of all the metabolic processes that occur throughout our body is measured in calories.
 >    - And suprisingly, exercise is usually a small percentage of our daily calories burn.
 > 2. NLP
+> 3. 틀을 깨는 사고력
+
+> > ## 2024.01.27
+> 1. 영어
+>    - < 3 tips on how to study effectively >
+>    - Testing yourself allows you to more accturately gauge what you actually know.
+>    - Interleaving, or mixing the concepts you focus on in a single session, can lead to better retention than practicing a single skill or topic at a time.
+>    - Now that you know how and what to study, our final technique concerns when.
+>    - Spacing your reivew across multiple days allows for rest and sleep between sessiosn.
+>    - while 'offline', the brain is actively at work, storing and integrating knowledge in the neocortex.
+>    - So while cramming the night before the exam may seen logical after all, won't the material be fresh in your mind? the information won't stick around for the long term.
+> 2. 독서
+>    - 틀을 깨는 사고력 (완독)
+> 3. NLP 정리
