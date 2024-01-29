@@ -298,3 +298,12 @@
 > 2. 독서
 >    - 틀을 깨는 사고력 (완독)
 > 3. NLP 정리
+
+> > ## 2024.01.28
+> 1. 영어
+>    - I'm using a process here called photo stacking, where you take multiple pictures from a fixed point over time and layer them into one composite photograph.
+>    - Photo stacking is a way to show the trails of things like stars, firefiles, athletes, airplanes, pretty much anything that moves.
+>    - It's a way to make the shape of those movements visible.
+>    - Most of these have between 500 and 2,000 layers.
+>    - They take a long time to build, and a lot of that time is spent just experimenting with which layers to keep in and which to leave out of the final image.
+> 2. NLP 정리
