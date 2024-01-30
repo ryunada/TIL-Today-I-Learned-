@@ -307,3 +307,8 @@
 >    - Most of these have between 500 and 2,000 layers.
 >    - They take a long time to build, and a lot of that time is spent just experimenting with which layers to keep in and which to leave out of the final image.
 > 2. NLP 정리
+
+> > ## 2024.01.29
+> 1. NLP 정리
+> 2. ML_A_1
+> 3. DL_Data
