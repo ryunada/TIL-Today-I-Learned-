@@ -318,3 +318,21 @@
 > 2. ML_A_1
 > 3. DL_Dat
 > 4. 세미나
+
+> > ## 2024.01.31
+> 1. 영어
+>    - < How to succed in your new job >
+>    - The first C is competence.
+>    - On day one your new colleagues are probably looking at you and thinking : Can you do your job?
+>    - The way to convince others, not to mention yourself, that yes, you can, is to show your homework and to give others som ething to react to.
+>    - Let's say it's your first day, and it's utter chaos.
+>    - People are forwarding you messages with nothing more than a "See below" at the top and pulling you into meetings without any notice or context.
+>    - Your manager just gave you a task, and two minutes in your're already confused.
+>    - Instead of going back to them right awayh and saying, "I don't know what to do next, help!" or doing what I did, which is not asking questions at all, think about a similar task that you tried in a previous job, in school or just for yourself.
+>    - What steps did you take then?
+>    - Then make your best guess and just give it a try.
+>    - "I'm working on X, and I'm not quite sure of what to do next.
+>    - I've taken X steps and spoken to so-and-so and I understand this part but I'm still unclear about this other part.
+>    - What do you think about this approach?"
+> 2. NLP 정리
+> 3. 슈독
