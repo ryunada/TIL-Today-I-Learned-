@@ -16,3 +16,19 @@
 >   - 슈독
 > 3. NLP 정리
 > 4. Machine Learning Algorithms_v1
+
+> > 2023.02.02
+> 1. 영어
+>    - The third C, It's compatibility.
+>    - Every time a ne w person joins a team, the others on it want to know : Will you get along with us?
+>    - By initiating conversations you're already expressing compatibility.
+>    - But while you're at it, use this time to try and identify who's in charge of what or what I call "invisible swim lanes."
+>    - Let's say you've just started a new remote job.
+>    - First, ask your manager if there's an org chart.
+>    - It's a diagram showing who reports to whom. And if there is one, amazing.
+>    - But formal job titles and reporting lines can only tell you so much about how things really work, So when you're in meetings and group chats, pay attention
+>    - What's each person's role? who reports to when?
+>    - Who's on whose side, who commands respect, which behaviors get rewarded and which behaviors get punished.
+>    - Understanding these norms, loylties, power brokers, and swim, lanes is what people are really referring to when they say that it's important to understand a team's "culture"
+> 2. 독서
+>    - 슈독
