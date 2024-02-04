@@ -331,6 +331,7 @@
 >    - Instead of going back to them right awayh and saying, "I don't know what to do next, help!" or doing what I did, which is not asking questions at all, think about a similar task that you tried in a previous job, in school or just for yourself.
 >    - What steps did you take then?
 >    - Then make your best guess and just give it a try.
+>    - Then go back to your manager and say.
 >    - "I'm working on X, and I'm not quite sure of what to do next.
 >    - I've taken X steps and spoken to so-and-so and I understand this part but I'm still unclear about this other part.
 >    - What do you think about this approach?"
