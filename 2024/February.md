@@ -32,3 +32,12 @@
 >    - Understanding these norms, loylties, power brokers, and swim, lanes is what people are really referring to when they say that it's important to understand a team's "culture"
 > 2. 독서
 >    - 슈독
+
+> > 2023.02.03
+> 1. NLP 정리
+> 2. 영어
+>   - While extrinsic rewards, like getting paid, may seem appealing, their effectiveness can be surprisingly short-lived.
+>   - For example, a 2017 study found that those who were highly focused on the outcomes of their New Year's resolutions— or driven by extrinsic motivation— weren't the most likely to stick to them.
+>   - What did predict persistence, however, was how much a person enjoyed pursuing their goals.
+>   - In other words, you're more likely to maintain an exercise routine if you take classes you enjoy, rather than just those that build your biceps.
+>   - Years of psychology research have shown that high levels of intrinsic motivation— for school, a job, or an exercise class— are more likely to keep you engaged in the long run.
