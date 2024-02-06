@@ -41,3 +41,8 @@
 >   - What did predict persistence, however, was how much a person enjoyed pursuing their goals.
 >   - In other words, you're more likely to maintain an exercise routine if you take classes you enjoy, rather than just those that build your biceps.
 >   - Years of psychology research have shown that high levels of intrinsic motivation— for school, a job, or an exercise class— are more likely to keep you engaged in the long run.
+
+> > 2023.02.04
+> 1. NLP 정리
+> 2. 영어
+> 3. 
