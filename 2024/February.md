@@ -57,3 +57,10 @@
 > 3. ML_A_V1
 >    - Naive Bayes
 >    - Logistic Regression
+
+> > 2023.02.07
+> 1. NLP 정리
+> 2. 독서
+>    - 슈독
+> 3. ML_A_V1
+
