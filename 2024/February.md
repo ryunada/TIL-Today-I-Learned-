@@ -1,4 +1,4 @@
-> > 2023.02.01
+> > 2024.02.01
 > 1. 영어
 >   - The second C is commitment.
 >   - Besides looking to see if you can do your job, your colleagues are also looking to see if you're dedicated.
@@ -17,7 +17,7 @@
 > 3. NLP 정리
 > 4. Machine Learning Algorithms_v1
 
-> > 2023.02.02
+> > 2024.02.02
 > 1. 영어
 >    - The third C, It's compatibility.
 >    - Every time a ne w person joins a team, the others on it want to know : Will you get along with us?
@@ -33,7 +33,7 @@
 > 2. 독서
 >    - 슈독
 
-> > 2023.02.03
+> > 2024.02.03
 > 1. NLP 정리
 > 2. 영어
 >   - While extrinsic rewards, like getting paid, may seem appealing, their effectiveness can be surprisingly short-lived.
@@ -42,15 +42,15 @@
 >   - In other words, you're more likely to maintain an exercise routine if you take classes you enjoy, rather than just those that build your biceps.
 >   - Years of psychology research have shown that high levels of intrinsic motivation— for school, a job, or an exercise class— are more likely to keep you engaged in the long run.
 
-> > 2023.02.04
+> > 2024.02.04
 > 1. NLP 정리
 > 2. 영어
 > 3. 
 
-> > 2023.02.05
+> > 2024.02.05
 > 1. NLP 정리
 
-> > 2023.02.06
+> > 2024.02.06
 > 1. NLP 정리
 > 2. 독서
 >    - 슈독
@@ -58,13 +58,13 @@
 >    - Naive Bayes
 >    - Logistic Regression
 
-> > 2023.02.07
+> > 2024.02.07
 > 1. NLP 정리
 > 2. 독서
 >    - 슈독
 > 3. ML_A_V1
 
-> > 2023.02.08
+> > 2024.02.08
 > 1. NLP 정리
 > 2. 독서
 >    - 슈독
@@ -74,4 +74,8 @@
 > 1. 독서
 >    - 슈독
 
-
+> > 2024.02.13
+> 1. 독서
+>    - 슈독
+> 2. NLP 정리
+> 3. ML_A_V1
