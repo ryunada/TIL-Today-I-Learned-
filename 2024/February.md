@@ -106,3 +106,21 @@
 > 3. NLP 정리
 >    - 차원 축소
 >    - 토픽 모델링
+
+> > 2024.02.18
+> 1. 독서
+>    - 슈독
+> 2. 영어
+>    - The world teaches us that long hours are inevitable and inescapable,  that overwork is a badge of honor and resting is a weakness.
+>    - Super successful people rise and grind, are always on and never stop.
+>    - Deep down, we know this is unhealthy and unsustainable.
+>    - But is there an alternative?
+>    - Downtime is deeply undervalued in today's 24/7 world, but it hasn't always been this way.
+>    - Virtually every ancient society defined the good life as balancing work and rest, and recent research in neuroscience and psychology has shown that rest strengthens our brains, enhances our learning and stimulates our creativity.
+>    - History's most accomplished scientists, writers and military leaders worked far fewer hours than we do today and built daily routines full of downtime.
+>    - People like naturalist Charles Darwin and geneticist Barbara McClintock, who both took daily walks, knew that work and rest are not opposites, they are partners.
+>    - You won't fully flourish until you can master both.
+> 3. ML_A_V1
+> 4. NLP 정리
+>    - 차원 축소
+>    - 토픽 모델링
