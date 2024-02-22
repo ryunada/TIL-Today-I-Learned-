@@ -137,3 +137,18 @@
 >    - 슈독
 > 2. 세미나
 > 3. NLP 정리
+
+> > 2024.02.21
+> 1. 영어
+>    - Here's where you can start.
+>    - First, rethink what rest is.
+>    - Getting enough sleep at night is key, and 20-minute naps are wonderful for a boost.
+>    - But when it comes to taking downtime int the day, the most restorative rest isn't found on a couch or in fron of a screen.
+>    - The best rest is active : exercise, hobbies walks.
+>    - These recharge our mental and physical batteries more effectively and give us more stamina and resilience than being a couch potato.
+>    - Rest is natural, but it's also a skill.
+>    - It's somthing we can practice and improve over time.
+>    - Just as athletes, singers and Buddhist monks use breathing to run faster, project their voices and calm their minds, we can use reset to boost our creativiey and recovery.
+> 2. 독서
+>    - 슈독
+> 3. NLP 정리
