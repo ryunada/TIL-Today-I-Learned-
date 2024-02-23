@@ -152,3 +152,18 @@
 > 2. 독서
 >    - 슈독
 > 3. NLP 정리
+
+> > 2024.02.22
+> 1. 영어
+>    - Second, integrate it into your daily wrok.
+>    - Athletes get the best results combining intensive training and recovery.
+>    - Likewise, creative people should layer periods of distraction-free, deep work with periods of deliberate rest.
+>    - So design a routine that lets you focus and get into flow for four or five hours a day, every day.
+>    - Make those periods more intensive, not longer, by killing distractions.
+>    - Give yourself permission to turn off email and messages and concentrate on what matters.
+>    - And then, if you have the flexibility, give yourself a nice, long, active break.
+>    - It will five your creative subconscious a chance to work on unsolved problems while you recover and generate those insights and aha moments that turn good ideas into breakthroughs.
+>    - And if you don't have the flexibility, find a way to make sure that when you're off from work that you apply these same principles to at least part your downtime.
+> 2. 독서
+>    - 슈독
+> 3. NLP 정리
