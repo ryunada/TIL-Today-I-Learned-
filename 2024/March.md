@@ -125,3 +125,10 @@
 
 > > 2024.03.24.
 > 1. NLP 정리
+
+> > 2024.03.25
+> 1. NLP 정리
+> 2. 논문 리뷰
+>    - Twitter sentiment analysis using ensemble based deep learning ~
+> 3. 영어
+>    - 3회 리딩
