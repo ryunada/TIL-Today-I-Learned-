@@ -132,3 +132,7 @@
 >    - Twitter sentiment analysis using ensemble based deep learning ~
 > 3. 영어
 >    - 3회 리딩
+
+> > 2024.03.26
+> 1. NLP 정리
+> 2. TimeSeries Dataset 잔차 분석 순서도 작성
