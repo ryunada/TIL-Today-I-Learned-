@@ -136,3 +136,10 @@
 > > 2024.03.26
 > 1. NLP 정리
 > 2. TimeSeries Dataset 잔차 분석 순서도 작성
+
+> > 2024.03.27
+> 1. NLP 정리
+>    - 토픽 모델링(Gensim)
+>    - Word2Vec
+> 2. TimeSereis Dataset 잔차 분석 순서도 작성 & Code
+> 3. 
