@@ -142,4 +142,7 @@
 >    - 토픽 모델링(Gensim)
 >    - Word2Vec
 > 2. TimeSereis Dataset 잔차 분석 순서도 작성 & Code
-> 3. 
+
+> > 2024.03.28
+> 1. NLP 정리
+> 2. Time Series Dataset Code 
