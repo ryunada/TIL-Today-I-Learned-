@@ -34,3 +34,9 @@
 > 1. NLP 정리
 > 2. 논문 Reivews
 > 3. Time Series Code 정리
+
+> > 2023.04.08
+> 1. NLP 정리
+> 2. Dynamic Topic Modeling
+> 3. 독서
+>    - 몰입
