@@ -49,3 +49,9 @@
 > > 2023.04.10
 > 1. NLP 정리
 > 2. Dynamic Topic Modeling
+
+> > 2023.04.11
+> 1. NLP 정리
+> 2. Dynamic Topic Modeling
+> 3. 독서
+>    - 몰입
