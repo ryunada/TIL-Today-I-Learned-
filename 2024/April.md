@@ -55,3 +55,12 @@
 > 2. Dynamic Topic Modeling
 > 3. 독서
 >    - 몰입
+
+> > 2023.04.12
+> 1. NLP 정리
+> 2. Dynmac Topic Modeling 완성
+
+> > 2023.04.13
+> 1. NLP 정리
+> 2. 독서
+>    - 몰입
