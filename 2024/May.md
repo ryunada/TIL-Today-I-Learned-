@@ -6,3 +6,7 @@
 > > 2024.05.02
 > 1. Machine Learning Algorithms 정리
 > 2. 세미나
+
+> > 2024.05.03
+> 1. ML AL 정리
+> 2. DTM 정리
