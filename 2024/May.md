@@ -22,3 +22,8 @@
 > 2. 독서
 >    - 잔잔하게 그러나 단단하게
 > 3. NLP 정리
+
+> > 2024.05.07
+> 1. NLP 정리
+>    - Transformer Encoding
+> 2. Poster 준비
