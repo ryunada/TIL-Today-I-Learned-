@@ -27,3 +27,7 @@
 > 1. NLP 정리
 >    - Transformer Encoding
 > 2. Poster 준비
+
+> > 2024.05.08
+> 1. NLP 정리
+> 2. Poster 준비
