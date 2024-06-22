@@ -92,3 +92,10 @@
 >    - Transformer
 > 2. 독서
 >    - 글쓰기 연습
+
+> > 2024.06.2
+> 1. Skill 정리
+>    - t-SNE Code
+>    - Transformer
+> 2. 독서
+>    - 글쓰기 연습
