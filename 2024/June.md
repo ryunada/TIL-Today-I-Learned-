@@ -149,3 +149,8 @@
 >    - Air quality in india 데이터 정리.
 > 2. 독서
 >    - 데일카네기 인간관계론
+
+> > 2024.06.28
+> 1. Skill 정리
+>    - Air quality in india 데이터 정리.
+> 2. DTM 정리
