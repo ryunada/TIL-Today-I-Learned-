@@ -154,3 +154,10 @@
 > 1. Skill 정리
 >    - Air quality in india 데이터 정리.
 > 2. DTM 정리
+
+> > 2024.06.29
+> 1. SKill 정리
+>    - Air quality in india 데이터 정리
+> 2. 글쓰기
+>    - 베껴쓰기
+>    - 정의내려 글쓰기, 비평 글, 일기
