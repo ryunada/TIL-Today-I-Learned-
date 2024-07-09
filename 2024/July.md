@@ -34,3 +34,24 @@
 
 > > 2024.07.07
 > 1. 세미나 준비
+
+> > 2024.07.08
+> 1. Brain Tumor Detection(CNN + ML).zip
+>     - https://www.kaggle.com/code/sadyaputra/detection-brain-tumor-using-cnn-hybrid-cnn-ml#Extract-Features-using-the-CNN-model
+>     - CNN + ML 코드 정리
+> 2. TED Talks(DTM).zip
+> 3. Air quality in india dataset 정리
+>    - https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
+>    - https://www.kaggle.com/datasets/fedesoriano/air-quality-data-in-india
+> 4. Air Quality and Health Impact Dataset
+>    - 출처 : 기밀로 인하여 분석 불가
+>    - https://www.kaggle.com/datasets/rabieelkharoua/air-quality-and-health-impact-dataset/data
+> ———————————————————————————————————————————————————————
+> 진행중
+> 1. Dataset
+>     - Air Quality in india
+>    - Predict survival of patients with heart failure 분석
+> 2. 매니폴드
+> 3. TED Talks label 생각
+> 4. Transformer
+> 5. CNN 정리 
