@@ -55,3 +55,6 @@
 > 3. TED Talks label 생각
 > 4. Transformer
 > 5. CNN 정리 
+
+> > 2024.07.09
+> 1. 세미나 준비
