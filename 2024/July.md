@@ -127,4 +127,11 @@
 > 1. 세미나 준비
 
 > > 2024.07.30
+> 1. 세미나
+> 2. Dimension Reduction
+> 3. Heart Failure
+
 > > 2024.07.31
+> 1. 세미나
+> 2. Dimension Reduction
+> 3. Heart Failure
