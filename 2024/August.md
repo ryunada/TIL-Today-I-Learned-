@@ -18,3 +18,8 @@
 > 1. Heart Failure
 > 2. Dimension Reduction
 > 3. 글쓰기
+
+> > 2024.08.06
+> 1. Heart Failure
+> 2. Dimension Reduction
+> 3. 글쓰기
