@@ -29,3 +29,15 @@
 > 2. Dimension Reduction
 > 3. Air_Quality_india
 > 4. 글쓰기
+
+> > 2024.08.08
+> 1. Heart Failure
+> 2. Dimension Reduction
+> 3. Air_Quality_india
+> 4. 글쓰기
+
+> > 2024.08.09
+> 1. Heart Failure
+> 2. Dimension Reduction
+> 3. Air_Quality_india
+> 4. 글쓰기
