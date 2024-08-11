@@ -41,3 +41,6 @@
 > 2. Dimension Reduction
 > 3. Air_Quality_india
 > 4. 글쓰기
+
+> > 2024.08.10
+> 1. Heart Failure
