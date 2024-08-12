@@ -44,3 +44,7 @@
 
 > > 2024.08.10
 > 1. Heart Failure
+
+> > 2024.08.11
+> 1. Heart Failure
+> 2. Dimension Reduction
