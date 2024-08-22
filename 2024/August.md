@@ -84,3 +84,7 @@
 > > 2024.08.20
 > 1. Heart Failure
 > 2. 졸업 논문 Search
+
+> > 2024.08.21
+> 1. Heart Failure
+> 2. Dimension Reduction
