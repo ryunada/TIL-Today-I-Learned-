@@ -92,3 +92,6 @@
 > > 2024.08.22
 > 1. Heart Failure
 
+> > 2024.08.23
+> 1. Heart Failure
+> 2. Machine Learning
