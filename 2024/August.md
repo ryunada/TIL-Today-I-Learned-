@@ -100,3 +100,7 @@
 > 1. Heart Failure
 > 2. Machine Learning
 
+> > 2024.08.25
+> 1. Heart Failure
+> 2. TED Talks 논문 구성
+
