@@ -104,3 +104,8 @@
 > 1. Heart Failure
 > 2. TED Talks 논문 구성
 
+> > 2024.08.26
+> 1. Heart Failure
+> 2. TED Talks 논문 구성
+> 3. 독서
+>    - 12가지 인생의 법칙
