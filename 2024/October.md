@@ -28,3 +28,9 @@
 > > 2024.10.07
 > 1. VAE 데이터 생성
 > 2. VAE 분석
+
+> > 2024.10.08
+> 1. VAE 데이터 생성
+> 2. VAE 분석
+> 3. Heart Failure 정리
+> 4. Heart Failure Poster 초록
