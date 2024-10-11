@@ -34,3 +34,11 @@
 > 2. VAE 분석
 > 3. Heart Failure 정리
 > 4. Heart Failure Poster 초록
+
+> > 2024.10.09
+> 1. Heart Failure 정리
+> 2. Heart Failure Poster 초록
+
+> > 2024.10.10
+> 1. Heart Failure 정리
+> 2. Heart Failure Poster 초록
