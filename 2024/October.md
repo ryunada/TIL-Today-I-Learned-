@@ -46,3 +46,7 @@
 > > 2024.10.11
 > 1. Heart Failure 정리
 > 2. Heart Failure Poster 초록
+
+> > 2024.10.12
+> 1. Heart Failure 정리
+> 2. Heart Failure Poster 초록(실패)
