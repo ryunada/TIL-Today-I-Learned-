@@ -50,3 +50,7 @@
 > > 2024.10.12
 > 1. Heart Failure 정리
 > 2. Heart Failure Poster 초록(실패)
+
+> > 2024.10.13
+> 1. VAE 정리
+> 2. VAE 초록
