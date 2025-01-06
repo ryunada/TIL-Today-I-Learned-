@@ -16,3 +16,7 @@
 > > 2025.01.04
 > 2. 투고 논문 Motivation & Realted Works
 > 3. 투고 논문 코드
+
+> > 2025.01.05
+> 2. 투고 논문 Motivation & Loss Comparison
+> 3. 투고 논문 코드
