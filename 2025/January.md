@@ -28,3 +28,11 @@
 > > 2025.01.07
 > 1. 투고 논문 Motivation & Loss Comparison
 > 2. 투고 논문 코드
+
+> > 2025.01.08
+> 1. 투고 논문 Motivation & Loss Comparison
+> 2. 투고 논문 코드
+
+> > 2025.01.09
+> 1. 투고 논문 Motivation & Loss Comparison
+> 2. 투고 논문 코드
