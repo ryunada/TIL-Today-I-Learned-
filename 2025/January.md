@@ -36,3 +36,12 @@
 > > 2025.01.09
 > 1. 투고 논문 Motivation & Loss Comparison
 > 2. 투고 논문 코드
+
+> > 2025.01.10
+> 1. 투고 논문 Motivation & Loss Comparison
+> 2. 투고 논문 코드
+> 3. 블로그 생성
+
+> > 2025.01.11
+> 1. 투고 논문 Motivation & Loss Comparison
+> 2. 투고 논문 코드
