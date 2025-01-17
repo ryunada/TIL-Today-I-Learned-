@@ -53,3 +53,17 @@
 > > 2025.01.13
 > 1. 투고 논문 Motivation & Loss Comparison
 > 2. 투고 논문 코드
+
+> > 2025.01.14
+> 1. 투고 논문 Motivation & Loss Comparison
+> 2. 투고 논문 코드
+
+> > 2025.01.15
+> 1. 투고 논문 Motivation & Loss Comparison
+> 2. 투고 논문 코드
+> 3. 으뜸 파이썬
+
+> > 2025.01.16
+> 1. 투고 논문 Motivation & Loss Comparison
+> 2. 투고 논문 코드
+> 3. 으뜸 파이썬
