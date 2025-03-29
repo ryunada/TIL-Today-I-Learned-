@@ -136,3 +136,11 @@
 > 2. 코테 공부
 >    - Programmers
 >    - Leetcode
+
+> > 2025.03.28
+> 1. 영어 공부
+>    - 듀오링고
+> 2. 코테 공부
+>    - Programmers
+>    - Leetcode
+
