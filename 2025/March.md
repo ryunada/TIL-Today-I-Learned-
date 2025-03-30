@@ -144,3 +144,9 @@
 >    - Programmers
 >    - Leetcode
 
+> > 2025.03.29
+> 1. 영어 공부
+>    - 듀오링고
+> 2. 코테 공부
+>    - Programmers
+>    - Leetcode
