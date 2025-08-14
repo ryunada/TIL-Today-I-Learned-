@@ -13,3 +13,7 @@
 1. 영어 공부
 2. 운동
 3. Programming
+
+> 2025.08.14
+1. 영어 공부
+2. Programming
