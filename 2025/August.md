@@ -17,3 +17,6 @@
 > 2025.08.14
 1. 영어 공부
 2. Programming
+
+> 2025.08.26
+1. Git Blog Update
